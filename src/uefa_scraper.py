@@ -222,11 +222,18 @@ def parse_season(soup: BeautifulSoup, season: str) -> list:
             if is_match_row(cells):
                 # Scores are the trailing cells (last 1 or 2)
                 # Walk backwards to collect score cells
-                score_cells   = []
-                non_score     = list(cells)
+                # Strip trailing empty cells first (single-leg finals have a
+                # blank 6th cell in the HTML — ignore it rather than treating
+                # it as a second score).
+                non_score = list(cells)
+                while non_score and non_score[-1].strip() == "":
+                    non_score.pop()
+
+                # Now walk backwards collecting real score cells
+                score_cells = []
                 while non_score:
                     last = non_score[-1].strip()
-                    if SCORE_RE.search(last) or last.lower() in ("w/o", "?", ""):
+                    if SCORE_RE.search(last) or last.lower() in ("w/o", "?"):
                         score_cells.insert(0, non_score.pop())
                     else:
                         break
@@ -406,7 +413,7 @@ if __name__ == "__main__":
     )
     parser.add_argument("--start",    type=int, default=1981)
     parser.add_argument("--end",      type=int, default=2025)
-    parser.add_argument("--output",   default="../data/uefa_results.csv")
+    parser.add_argument("--output",   default="uefa_results.csv")
     parser.add_argument("--delay",    type=float, default=2.0,
                         help="Seconds between requests (default 2.0 — please be polite)")
     parser.add_argument("--diagnose", action="store_true",
