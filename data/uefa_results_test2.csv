@@ -1,0 +1,383 @@
+season,competition,round,team_a,country_a,team_b,country_b,score_leg1,score_leg2,score_aggregate,extra_time,penalties
+1980/81,CL,Qualifying Round,Honvéd Budapest,Hun,Valletta FC,Mlt,8-0,3-0,11-0,no,no
+1980/81,CL,Round 1,Linfield Belfast,Nir,FC Nantes,Fra,0-1,0-2,0-3,no,no
+1980/81,CL,Round 1,Aberdeen,Sco,Austria Wien,Aut,1-0,0-0,1-0,no,no
+1980/81,CL,Round 1,Club Brugge,Bel,FC Basel,Sui,0-1,1-4,1-5,no,no
+1980/81,CL,Round 1,CSKA Sofia,Bul,Nottingham Forest,Eng,1-0,1-0,2-0,no,no
+1980/81,CL,Round 1,BFC Dynamo Berlin,GDR,APOEL Nicosia,Cyp,3-0,1-2,4-2,no,no
+1980/81,CL,Round 1,Dinamo Tirana,Alb,Ajax,Ned,0-2,0-1,0-3,no,no
+1980/81,CL,Round 1,Internazionale,Ita,Universitatea Craiova,Rom,2-0,1-1,3-1,no,no
+1980/81,CL,Round 1,Jeunesse d'Esch,Lux,Spartak Moscow,URS,0-5,0-4,0-9,no,no
+1980/81,CL,Round 1,Limerick,Irl,Real Madrid,Esp,1-2,1-5,2-7,no,no
+1980/81,CL,Round 1,Olympiakos Piraeus,Gre,Bayern München,Ger,2-4,0-3,2-7,no,no
+1980/81,CL,Round 1,OPS Oulu,Fin,Liverpool,Eng,1-1,1-10,2-11,no,no
+1980/81,CL,Round 1,Sporting CP Lisbon,Por,Honvéd Budapest,Hun,0-2,0-1,0-3,no,no
+1980/81,CL,Round 1,Trabzonspor,Tur,Szombierki Bytom,Pol,2-1,0-3,2-4,no,no
+1980/81,CL,Round 1,Viking Stavanger,Nor,Red Star Belgrade,YUG,2-3,1-4,3-7,no,no
+1980/81,CL,Round 1,IBV Vestmannaeyjar,Isl,Baník Ostrava,TCH,1-1,0-1,1-2,no,no
+1980/81,CL,Round 1,Halmstads BK,Swe,Esbjerg fB,Den,0-0,2-3,2-3,no,no
+1980/81,CL,Round 2,FC Nantes,Fra,Internazionale,Ita,1-2,1-1,2-3,no,no
+1980/81,CL,Round 2,Real Madrid,Esp,Honvéd Budapest,Hun,1-0,2-0,3-0,no,no
+1980/81,CL,Round 2,Bayern München,Ger,Ajax,Ned,5-1,1-2,6-3,no,no
+1980/81,CL,Round 2,Aberdeen,Sco,Liverpool,Eng,0-1,0-4,0-5,no,no
+1980/81,CL,Round 2,CSKA Sofia,Bul,Szombierki Bytom,Pol,4-0,1-0,5-0,no,no
+1980/81,CL,Round 2,Baník Ostrava,TCH,BFC Dynamo Berlin,GDR,0-0,1-1,1-1,no,no
+1980/81,CL,Round 2,Spartak Moscow,URS,Esbjerg fB,Den,3-0,0-2,3-2,no,no
+1980/81,CL,Round 2,FC Basel,Sui,Red Star Belgrade,YUG,1-0,0-2,1-2,no,no
+1980/81,CL,Quarter Finals,Liverpool,Eng,CSKA Sofia,Bul,5-1,1-0,6-1,no,no
+1980/81,CL,Quarter Finals,Bayern München,Ger,Baník Ostrava,TCH,2-0,4-2,6-2,no,no
+1980/81,CL,Quarter Finals,Internazionale,Ita,Red Star Belgrade,YUG,1-1,1-0,2-1,no,no
+1980/81,CL,Quarter Finals,Spartak Moscow,URS,Real Madrid,Esp,0-0,0-2,0-2,no,no
+1980/81,CL,Semi Finals,Liverpool,Eng,Bayern München,Ger,0-0,1-1,1-1,no,no
+1980/81,CL,Semi Finals,Real Madrid,Esp,Internazionale,Ita,2-0,0-1,2-1,no,no
+1980/81,CL,Final,Liverpool,Eng,Real Madrid,Esp,1-0,,1-0,no,no
+1980/81,CW,Qualifying Round,Celtic,Sco,Diósgyöri Miskolc,Hun,6-0,1-2,7-2,no,no
+1980/81,CW,Qualifying Round,Altay Izmir,Tur,Benfica,Por,0-0,0-4,0-4,no,no
+1980/81,CW,Round 1,Newport County,Wal,Crusaders Belfast,Nir,4-0,0-0,4-0,no,no
+1980/81,CW,Round 1,CA Spora Luxembourg,Lux,Sparta Praha,TCH,0-6,0-6,0-12,no,no
+1980/81,CW,Round 1,Slavia Sofia,Bul,Legia Warsaw,Pol,3-1,0-1,3-2,no,no
+1980/81,CW,Round 1,Castilla,Esp,West Ham United,Eng,3-1,1-5,4-6,no,no
+1980/81,CW,Round 1,Celtic,Sco,Politehnica Timisoara,Rom,2-1,0-1,2-2,no,no
+1980/81,CW,Round 1,Dinamo Zagreb,YUG,Benfica,Por,0-0,0-2,0-2,no,no
+1980/81,CW,Round 1,Fortuna Düsseldorf,Ger,Austria Salzburg,Aut,5-0,3-0,8-0,no,no
+1980/81,CW,Round 1,Hibernians FC,Mlt,Waterford,Irl,1-0,0-4,1-4,no,no
+1980/81,CW,Round 1,Ilves Tampere,Fin,Feyenoord,Ned,1-3,2-4,3-7,no,no
+1980/81,CW,Round 1,Hvidovre IF,Den,Fram Reykjavik,Isl,1-0,2-0,3-0,no,no
+1980/81,CW,Round 1,Kastoria FC,Gre,Dinamo Tbilisi,URS,0-0,0-2,0-2,no,no
+1980/81,CW,Round 1,Malmö FF,Swe,Partizani Tirana,Alb,1-0,0-0,1-0,no,no
+1980/81,CW,Round 1,Omonia Nicosia,Cyp,THOR Waterschei,Bel,1-3,0-4,1-7,no,no
+1980/81,CW,Round 1,AS Roma,Ita,Carl Zeiss Jena,GDR,3-0,0-4,3-4,no,no
+1980/81,CW,Round 1,FC Sion,Sui,Haugur Haugesund,Nor,1-1,0-2,1-3,no,no
+1980/81,CW,Round 1,Valencia,Esp,AS Monaco,Fra,2-0,3-3,5-3,no,no
+1980/81,CW,Round 2,Carl Zeiss Jena,GDR,Valencia,Esp,3-1,0-1,3-2,no,no
+1980/81,CW,Round 2,Malmö FF,Swe,Benfica,Por,1-0,0-2,1-2,no,no
+1980/81,CW,Round 2,THOR Waterschei,Bel,Fortuna Düsseldorf,Ger,0-0,0-1,0-1,no,no
+1980/81,CW,Round 2,Hvidovre IF,Den,Feyenoord,Ned,1-2,0-1,1-3,no,no
+1980/81,CW,Round 2,Sparta Praha,TCH,Slavia Sofia,Bul,2-0,0-3,2-3,no,no
+1980/81,CW,Round 2,Waterford,Irl,Dinamo Tbilisi,URS,0-1,0-4,0-5,no,no
+1980/81,CW,Round 2,Haugur Haugesund,Nor,Newport County,Wal,0-0,0-6,0-6,no,no
+1980/81,CW,Round 2,West Ham United,Eng,Politehnica Timisoara,Rom,4-0,0-1,4-1,no,no
+1980/81,CW,Quarter Finals,West Ham United,Eng,Dinamo Tbilisi,URS,1-4,1-0,2-4,no,no
+1980/81,CW,Quarter Finals,Carl Zeiss Jena,GDR,Newport County,Wal,2-2,1-0,3-2,no,no
+1980/81,CW,Quarter Finals,Slavia Sofia,Bul,Feyenoord,Ned,3-2,0-4,3-6,no,no
+1980/81,CW,Quarter Finals,Fortuna Düsseldorf,Ger,Benfica,Por,2-2,0-1,2-3,no,no
+1980/81,CW,Semi Finals,Carl Zeiss Jena,GDR,Benfica,Por,2-0,0-1,2-1,no,no
+1980/81,CW,Semi Finals,Dinamo Tbilisi,URS,Feyenoord,Ned,3-0,0-2,3-2,no,no
+1980/81,CW,Final,Dinamo Tbilisi,URS,Carl Zeiss Jena,GDR,2-1,,2-1,no,no
+1980/81,EL,Round 1,AZ Alkmaar,Ned,Red Boys Differdange,Lux,6-0,4-0,10-0,no,no
+1980/81,EL,Round 1,IA Akranes,Isl,1.FC Köln,Ger,0-4,0-6,0-10,no,no
+1980/81,EL,Round 1,Sliema Wanderers,Mlt,FC Barcelona,Esp,0-2,0-1,0-3,no,no
+1980/81,EL,Round 1,Újpest Dózsa,Hun,Real Sociedad,Esp,1-1,0-1,1-2,no,no
+1980/81,EL,Round 1,Arges Pitesti,Rom,FC Utrecht,Ned,0-0,0-2,0-2,no,no
+1980/81,EL,Round 1,Ballymena United,Nir,FC Vorwärts Frankfurt,GDR,2-1,0-3,2-4,no,no
+1980/81,EL,Round 1,Bohemians Praha,TCH,Sporting Gijón,Esp,3-1,1-2,4-3,no,no
+1980/81,EL,Round 1,Dynamo Dresden,GDR,Napredak Krusevac,YUG,1-0,1-0,2-0,no,no
+1980/81,EL,Round 1,IF Elfsborg,Swe,St. Mirren,Sco,1-2,0-0,1-2,no,no
+1980/81,EL,Round 1,Grasshoppers Zürich,Sui,KB København,Den,3-1,5-2,8-3,no,no
+1980/81,EL,Round 1,Hamburger SV,Ger,FK Sarajevo,YUG,4-2,3-3,7-5,no,no
+1980/81,EL,Round 1,Ipswich Town,Eng,Aris Thessaloniki,Gre,5-1,1-3,6-4,no,no
+1980/81,EL,Round 1,Juventus,Ita,Panathinaikos,Gre,4-0,2-4,6-4,no,no
+1980/81,EL,Round 1,1.FC Kaiserslautern,Ger,Anderlecht,Bel,1-0,2-3,3-3,no,no
+1980/81,EL,Round 1,Dinamo Kiev,URS,Levski-Spartak Sofia,Bul,1-1,0-0,1-1,no,no
+1980/81,EL,Round 1,PSV Eindhoven,Ned,Wolverhampton Wanderers,Eng,3-1,0-1,3-2,no,no
+1980/81,EL,Round 1,KuPS Kuopio,Fin,AS Saint-Étienne,Fra,0-7,0-7,0-14,no,no
+1980/81,EL,Round 1,LASK Linz,Aut,Radnicki Nis,YUG,1-2,1-4,2-6,no,no
+1980/81,EL,Round 1,KSC Lokeren,Bel,Dinamo Moscow,URS,1-1,1-0,2-1,no,no
+1980/81,EL,Round 1,1.FC Magdeburg,GDR,Moss FK,Nor,2-1,3-2,5-3,no,no
+1980/81,EL,Round 1,Manchester United,Eng,Widzew Lódz,Pol,1-1,0-0,1-1,no,no
+1980/81,EL,Round 1,FC Porto,Por,Dundalk,Irl,1-0,0-0,1-0,no,no
+1980/81,EL,Round 1,RWD Molenbeek,Bel,Torino,Ita,1-2,2-2,3-4,no,no
+1980/81,EL,Round 1,Shakhtar Donetsk,URS,Eintracht Frankfurt,Ger,1-0,0-3,1-3,no,no
+1980/81,EL,Round 1,Slask Wroclaw,Pol,Dundee United,Sco,0-0,2-7,2-7,no,no
+1980/81,EL,Round 1,FC Sochaux-Montbéliard,Fra,Servette FC Genève,Sui,2-0,1-2,3-2,no,no
+1980/81,EL,Round 1,Standard Liège,Bel,Steaua Bucuresti,Rom,1-1,2-1,3-2,no,no
+1980/81,EL,Round 1,VfB Stuttgart,Ger,Pezoporikos Larnaca,Cyp,6-0,4-1,10-1,no,no
+1980/81,EL,Round 1,FC Twente Enschede,Ned,IFK Göteborg,Swe,5-1,0-2,5-3,no,no
+1980/81,EL,Round 1,Vasas Budapest,Hun,Boavista,Por,0-2,1-0,1-2,no,no
+1980/81,EL,Round 1,Zbrojovka Brno,TCH,SK Vöest Linz,Aut,3-1,2-0,5-1,no,no
+1980/81,EL,Round 1,Fenerbahçe,Tur,FC Beroe Stara Zagora,Bul,0-1,1-2,1-3,no,no
+1980/81,EL,Round 2,FC Sochaux-Montbéliard,Fra,Boavista,Por,2-2,1-0,3-2,no,no
+1980/81,EL,Round 2,St. Mirren,Sco,AS Saint-Étienne,Fra,0-0,0-2,0-2,no,no
+1980/81,EL,Round 2,Torino,Ita,1.FC Magdeburg,GDR,3-1,0-1,3-2,no,no
+1980/81,EL,Round 2,FC Twente Enschede,Ned,Dynamo Dresden,GDR,1-1,0-0,1-1,no,no
+1980/81,EL,Round 2,Widzew Lódz,Pol,Juventus,Ita,3-1,1-3,4-4,no,no
+1980/81,EL,Round 2,Dundee United,Sco,KSC Lokeren,Bel,1-1,0-0,1-1,no,no
+1980/81,EL,Round 2,FC Utrecht,Ned,Eintracht Frankfurt,Ger,2-1,1-3,3-4,no,no
+1980/81,EL,Round 2,Ipswich Town,Eng,Bohemians Praha,TCH,3-0,0-2,3-2,no,no
+1980/81,EL,Round 2,Levski-Spartak Sofia,Bul,AZ Alkmaar,Ned,1-1,0-5,1-6,no,no
+1980/81,EL,Round 2,PSV Eindhoven,Ned,Hamburger SV,Ger,1-1,1-2,2-3,no,no
+1980/81,EL,Round 2,1.FC Köln,Ger,FC Barcelona,Esp,0-1,4-0,4-1,no,no
+1980/81,EL,Round 2,VfB Stuttgart,Ger,FC Vorwärts Frankfurt,GDR,5-1,2-1,7-2,no,no
+1980/81,EL,Round 2,1.FC Kaiserslautern,Ger,Standard Liège,Bel,1-2,1-2,2-4,no,no
+1980/81,EL,Round 2,FC Beroe Stara Zagora,Bul,Radnicki Nis,YUG,0-1,1-2,1-3,no,no
+1980/81,EL,Round 2,Zbrojovka Brno,TCH,Real Sociedad,Esp,1-1,1-2,2-3,no,no
+1980/81,EL,Round 2,FC Porto,Por,Grasshoppers Zürich,Sui,2-0,0-3,2-3,no,no
+1980/81,EL,Round 3,Eintracht Frankfurt,Ger,FC Sochaux-Montbéliard,Fra,4-2,0-2,4-4,no,no
+1980/81,EL,Round 3,Hamburger SV,Ger,AS Saint-Étienne,Fra,0-5,0-1,0-6,no,no
+1980/81,EL,Round 3,VfB Stuttgart,Ger,1.FC Köln,Ger,3-1,1-4,4-5,no,no
+1980/81,EL,Round 3,KSC Lokeren,Bel,Real Sociedad,Esp,1-0,2-2,3-2,no,no
+1980/81,EL,Round 3,Grasshoppers Zürich,Sui,Torino,Ita,2-1,1-2,3-3,no,no
+1980/81,EL,Round 3,Radnicki Nis,YUG,AZ Alkmaar,Ned,2-2,0-5,2-7,no,no
+1980/81,EL,Round 3,Standard Liège,Bel,Dynamo Dresden,GDR,1-1,4-1,5-2,no,no
+1980/81,EL,Round 3,Ipswich Town,Eng,Widzew Lódz,Pol,5-0,0-1,5-1,no,no
+1980/81,EL,Quarter Finals,Standard Liège,Bel,1.FC Köln,Ger,0-0,2-3,2-3,no,no
+1980/81,EL,Quarter Finals,AZ Alkmaar,Ned,KSC Lokeren,Bel,2-0,0-1,2-1,no,no
+1980/81,EL,Quarter Finals,AS Saint-Étienne,Fra,Ipswich Town,Eng,1-4,1-3,2-7,no,no
+1980/81,EL,Quarter Finals,Grasshoppers Zürich,Sui,FC Sochaux-Montbéliard,Fra,0-0,1-2,1-2,no,no
+1980/81,EL,Semi Finals,Ipswich Town,Eng,1.FC Köln,Ger,1-0,1-0,2-0,no,no
+1980/81,EL,Semi Finals,FC Sochaux-Montbéliard,Fra,AZ Alkmaar,Ned,1-1,2-3,3-4,no,no
+1980/81,EL,Final,Ipswich Town,Eng,AZ Alkmaar,Ned,3-0,2-4,5-4,no,no
+1981/82,CL,Qualifying Round,AS Saint-Étienne,Fra,BFC Dynamo Berlin,GDR,1-1,0-2,1-3,no,no
+1981/82,CL,Round 1,Aston Villa,Eng,Valur Reykjavik,Isl,5-0,2-0,7-0,no,no
+1981/82,CL,Round 1,BFC Dynamo Berlin,GDR,FC Zürich,Sui,2-0,1-3,3-3,no,no
+1981/82,CL,Round 1,Austria Wien,Aut,Partizani Tirana,Alb,3-1,0-1,3-2,no,no
+1981/82,CL,Round 1,Dinamo Kiev,URS,Trabzonspor,Tur,1-0,1-1,2-1,no,no
+1981/82,CL,Round 1,Hibernians FC,Mlt,Red Star Belgrade,YUG,1-2,1-8,2-10,no,no
+1981/82,CL,Round 1,Ferencváros,Hun,Baník Ostrava,TCH,3-2,0-3,3-5,no,no
+1981/82,CL,Round 1,Celtic,Sco,Juventus,Ita,1-0,0-2,1-2,no,no
+1981/82,CL,Round 1,Widzew Lódz,Pol,Anderlecht,Bel,1-4,1-2,2-6,no,no
+1981/82,CL,Round 1,CSKA Sofia,Bul,Real Sociedad,Esp,1-0,0-0,1-0,no,no
+1981/82,CL,Round 1,Progrès Niederkorn,Lux,Glentoran,Nir,1-1,0-4,1-5,no,no
+1981/82,CL,Round 1,Start Kristiansand,Nor,AZ Alkmaar,Ned,1-3,0-1,1-4,no,no
+1981/82,CL,Round 1,OPS Oulu,Fin,Liverpool,Eng,0-1,0-7,0-8,no,no
+1981/82,CL,Round 1,Universitatea Craiova,Rom,Olympiakos Piraeus,Gre,3-0,0-2,3-2,no,no
+1981/82,CL,Round 1,KB København,Den,Athlone Town,Irl,1-1,2-2,3-3,no,no
+1981/82,CL,Round 1,Benfica,Por,Omonia Nicosia,Cyp,3-0,1-0,4-0,no,no
+1981/82,CL,Round 1,Östers IF,Swe,Bayern München,Ger,0-1,0-5,0-6,no,no
+1981/82,CL,Round 2,BFC Dynamo Berlin,GDR,Aston Villa,Eng,1-2,1-0,2-2,no,no
+1981/82,CL,Round 2,Austria Wien,Aut,Dinamo Kiev,URS,0-1,1-1,1-2,no,no
+1981/82,CL,Round 2,Baník Ostrava,TCH,Red Star Belgrade,YUG,3-1,0-3,3-4,no,no
+1981/82,CL,Round 2,Anderlecht,Bel,Juventus,Ita,3-1,1-1,4-2,no,no
+1981/82,CL,Round 2,CSKA Sofia,Bul,Glentoran,Nir,2-0,1-2,3-2,no,no
+1981/82,CL,Round 2,AZ Alkmaar,Ned,Liverpool,Eng,2-2,2-3,4-5,no,no
+1981/82,CL,Round 2,KB København,Den,Universitatea Craiova,Rom,1-0,1-4,2-4,no,no
+1981/82,CL,Round 2,Benfica,Por,Bayern München,Ger,0-0,1-4,1-4,no,no
+1981/82,CL,Quarter Finals,Dinamo Kiev,URS,Aston Villa,Eng,0-0,0-2,0-2,no,no
+1981/82,CL,Quarter Finals,Anderlecht,Bel,Red Star Belgrade,YUG,2-1,2-1,4-2,no,no
+1981/82,CL,Quarter Finals,Liverpool,Eng,CSKA Sofia,Bul,1-0,0-2,1-2,no,no
+1981/82,CL,Quarter Finals,Universitatea Craiova,Rom,Bayern München,Ger,0-2,1-1,1-3,no,no
+1981/82,CL,Semi Finals,Aston Villa,Eng,Anderlecht,Bel,1-0,0-0,1-0,no,no
+1981/82,CL,Semi Finals,CSKA Sofia,Bul,Bayern München,Ger,4-3,0-4,4-7,no,no
+1981/82,CL,Final,Aston Villa,Eng,Bayern München,Ger,1-0,,1-0,no,no
+1981/82,CW,Qualifying Round,Politehnica Timisoara,Rom,Lokomotive Leipzig,GDR,2-0,0-5,2-5,no,no
+1981/82,CW,Round 1,FC Barcelona,Esp,Trakia Plovdiv,Bul,4-1,0-1,4-2,no,no
+1981/82,CW,Round 1,Dukla Praha,TCH,Glasgow Rangers,Sco,3-0,1-2,4-2,no,no
+1981/82,CW,Round 1,Jeunesse d'Esch,Lux,Velez Mostar,YUG,1-1,1-6,2-7,no,no
+1981/82,CW,Round 1,Swansea City,Wal,Lokomotive Leipzig,GDR,0-1,1-2,1-3,no,no
+1981/82,CW,Round 1,Eintracht Frankfurt,Ger,PAOK Thessaloniki,Gre,2-0,0-2,2-2,no,no
+1981/82,CW,Round 1,SKA Rostov-na-Donu,URS,Ankaragücü,Tur,3-0,2-0,5-0,no,no
+1981/82,CW,Round 1,Fram Reykjavik,Isl,Dundalk,Irl,2-1,0-4,2-5,no,no
+1981/82,CW,Round 1,Ajax,Ned,Tottenham Hotspur,Eng,1-3,0-3,1-6,no,no
+1981/82,CW,Round 1,Dinamo Tbilisi,URS,Grazer AK,Aut,2-0,2-2,4-2,no,no
+1981/82,CW,Round 1,KTP Kotka,Fin,SC Bastia,Fra,0-0,0-5,0-5,no,no
+1981/82,CW,Round 1,Lausanne Sports,Sui,Kalmar FF,Swe,2-1,2-3,4-4,no,no
+1981/82,CW,Round 1,Vålerengens IF,Nor,Legia Warsaw,Pol,2-2,1-4,3-6,no,no
+1981/82,CW,Round 1,Vejle BK,Den,FC Porto,Por,2-1,0-3,2-4,no,no
+1981/82,CW,Round 1,Ballymena United,Nir,AS Roma,Ita,0-2,0-4,0-6,no,no
+1981/82,CW,Round 1,Enosis Paralimni,Cyp,Vasas Budapest,Hun,1-0,0-8,1-8,no,no
+1981/82,CW,Round 1,Floriana,Mlt,Standard Liège,Bel,1-3,0-9,1-12,no,no
+1981/82,CW,Round 2,Dukla Praha,TCH,FC Barcelona,Esp,1-0,0-4,1-4,no,no
+1981/82,CW,Round 2,Lokomotive Leipzig,GDR,Velez Mostar,YUG,1-1,1-1,2-2,no,no
+1981/82,CW,Round 2,SKA Rostov-na-Donu,URS,Eintracht Frankfurt,Ger,1-0,0-2,1-2,no,no
+1981/82,CW,Round 2,Dundalk,Irl,Tottenham Hotspur,Eng,1-1,0-1,1-2,no,no
+1981/82,CW,Round 2,SC Bastia,Fra,Dinamo Tbilisi,URS,1-1,1-3,2-4,no,no
+1981/82,CW,Round 2,Legia Warsaw,Pol,Lausanne Sports,Sui,2-1,1-1,3-2,no,no
+1981/82,CW,Round 2,FC Porto,Por,AS Roma,Ita,2-0,0-0,2-0,no,no
+1981/82,CW,Round 2,Vasas Budapest,Hun,Standard Liège,Bel,0-2,1-2,1-4,no,no
+1981/82,CW,Quarter Finals,Lokomotive Leipzig,GDR,FC Barcelona,Esp,0-3,2-1,2-4,no,no
+1981/82,CW,Quarter Finals,Tottenham Hotspur,Eng,Eintracht Frankfurt,Ger,2-0,1-2,3-2,no,no
+1981/82,CW,Quarter Finals,Legia Warsaw,Pol,Dinamo Tbilisi,URS,0-1,0-1,0-2,no,no
+1981/82,CW,Quarter Finals,Standard Liège,Bel,FC Porto,Por,2-0,2-2,4-2,no,no
+1981/82,CW,Semi Finals,Tottenham Hotspur,Eng,FC Barcelona,Esp,1-1,0-1,1-2,no,no
+1981/82,CW,Semi Finals,Dinamo Tbilisi,URS,Standard Liège,Bel,0-1,0-1,0-2,no,no
+1981/82,CW,Final,FC Barcelona,Esp,Standard Liège,Bel,2-1,,2-1,no,no
+1981/82,EL,Round 1,Haka Valkeakoski,Fin,IFK Göteborg,Swe,2-3,0-4,2-7,no,no
+1981/82,EL,Round 1,Sturm Graz,Aut,CSKA Moscow,URS,1-0,1-2,2-2,no,no
+1981/82,EL,Round 1,Adanaspor,Tur,Internazionale,Ita,1-3,1-4,2-7,no,no
+1981/82,EL,Round 1,Dinamo Bucuresti,Rom,Levski-Spartak Sofia,Bul,3-0,1-2,4-2,no,no
+1981/82,EL,Round 1,Hajduk Split,YUG,VfB Stuttgart,Ger,3-1,2-2,5-3,no,no
+1981/82,EL,Round 1,SK Beveren,Bel,Linfield Belfast,Nir,3-0,5-0,8-0,no,no
+1981/82,EL,Round 1,Boavista,Por,Atlético Madrid,Esp,4-1,1-3,5-4,no,no
+1981/82,EL,Round 1,Bohemians Praha,TCH,Valencia,Esp,0-1,0-1,0-2,no,no
+1981/82,EL,Round 1,Tatabánya,Hun,Real Madrid,Esp,2-1,0-1,2-2,no,no
+1981/82,EL,Round 1,Dinamo Tirana,Alb,Carl Zeiss Jena,GDR,1-0,0-4,1-4,no,no
+1981/82,EL,Round 1,PSV Eindhoven,Ned,Næstved IF,Den,7-0,1-2,8-2,no,no
+1981/82,EL,Round 1,Rapid Wien,Aut,Videoton Fehérvár,Hun,2-2,2-0,4-2,no,no
+1981/82,EL,Round 1,FC Nantes,Fra,KSC Lokeren,Bel,1-1,2-4,3-5,no,no
+1981/82,EL,Round 1,Aris Thessaloniki,Gre,Sliema Wanderers,Mlt,4-0,4-2,8-2,no,no
+1981/82,EL,Round 1,Spartak Moscow,URS,Club Brugge,Bel,3-1,3-1,6-2,no,no
+1981/82,EL,Round 1,1.FC Kaiserslautern,Ger,Akademik Sofia,Bul,1-0,2-1,3-1,no,no
+1981/82,EL,Round 1,Napoli,Ita,Radnicki Nis,YUG,2-2,0-0,2-2,no,no
+1981/82,EL,Round 1,Grasshoppers Zürich,Sui,West Bromwich Albion,Eng,1-0,3-1,4-1,no,no
+1981/82,EL,Round 1,Zenit Leningrad,URS,Dynamo Dresden,GDR,1-2,1-4,2-6,no,no
+1981/82,EL,Round 1,Feyenoord,Ned,Szombierki Bytom,Pol,2-0,1-1,3-1,no,no
+1981/82,EL,Round 1,Bryne FK,Nor,KFC Winterslag,Bel,0-2,2-1,2-3,no,no
+1981/82,EL,Round 1,Panathinaikos,Gre,Arsenal,Eng,0-2,0-1,0-3,no,no
+1981/82,EL,Round 1,1.FC Magdeburg,GDR,Borussia Mönchengladbach,Ger,3-1,0-2,3-3,no,no
+1981/82,EL,Round 1,AS Monaco,Fra,Dundee United,Sco,2-5,2-1,4-6,no,no
+1981/82,EL,Round 1,Xamax Neuchâtel,Sui,Sparta Praha,TCH,4-0,2-3,6-3,no,no
+1981/82,EL,Round 1,Malmö FF,Swe,Wisla Kraków,Pol,2-0,3-1,5-1,no,no
+1981/82,EL,Round 1,Limerick,Irl,Southampton FC,Eng,0-3,1-1,1-4,no,no
+1981/82,EL,Round 1,Sporting CP Lisbon,Por,Red Boys Differdange,Lux,4-0,7-0,11-0,no,no
+1981/82,EL,Round 1,Ipswich Town,Eng,Aberdeen,Sco,1-1,1-3,2-4,no,no
+1981/82,EL,Round 1,APOEL Nicosia,Cyp,Arges Pitesti,Rom,1-1,0-4,1-5,no,no
+1981/82,EL,Round 1,Vikingur Reykjavik,Isl,Girondins Bordeaux,Fra,0-4,0-4,0-8,no,no
+1981/82,EL,Round 1,Hamburger SV,Ger,FC Utrecht,Ned,0-1,6-3,6-4,no,no
+1981/82,EL,Round 2,Sturm Graz,Aut,IFK Göteborg,Swe,2-2,2-3,4-5,no,no
+1981/82,EL,Round 2,Internazionale,Ita,Dinamo Bucuresti,Rom,1-1,2-3,3-4,no,no
+1981/82,EL,Round 2,SK Beveren,Bel,Hajduk Split,YUG,2-3,2-1,4-4,no,no
+1981/82,EL,Round 2,Valencia,Esp,Boavista,Por,2-0,0-1,2-1,no,no
+1981/82,EL,Round 2,Real Madrid,Esp,Carl Zeiss Jena,GDR,3-2,0-0,3-2,no,no
+1981/82,EL,Round 2,Rapid Wien,Aut,PSV Eindhoven,Ned,1-0,1-2,2-2,no,no
+1981/82,EL,Round 2,Aris Thessaloniki,Gre,KSC Lokeren,Bel,1-1,0-4,1-5,no,no
+1981/82,EL,Round 2,Spartak Moscow,URS,1.FC Kaiserslautern,Ger,2-1,0-4,2-5,no,no
+1981/82,EL,Round 2,Grasshoppers Zürich,Sui,Radnicki Nis,YUG,2-0,0-2,2-2,no,no
+1981/82,EL,Round 2,Feyenoord,Ned,Dynamo Dresden,GDR,2-1,1-1,3-2,no,no
+1981/82,EL,Round 2,KFC Winterslag,Bel,Arsenal,Eng,1-0,1-2,2-2,no,no
+1981/82,EL,Round 2,Borussia Mönchengladbach,Ger,Dundee United,Sco,2-0,0-5,2-5,no,no
+1981/82,EL,Round 2,Malmö FF,Swe,Xamax Neuchâtel,Sui,0-1,0-1,0-2,no,no
+1981/82,EL,Round 2,Southampton FC,Eng,Sporting CP Lisbon,Por,2-4,0-0,2-4,no,no
+1981/82,EL,Round 2,Aberdeen,Sco,Arges Pitesti,Rom,3-0,2-2,5-2,no,no
+1981/82,EL,Round 2,Girondins Bordeaux,Fra,Hamburger SV,Ger,2-1,0-2,2-3,no,no
+1981/82,EL,Round 3,IFK Göteborg,Swe,Dinamo Bucuresti,Rom,3-1,1-0,4-1,no,no
+1981/82,EL,Round 3,Valencia,Esp,Hajduk Split,YUG,5-1,1-4,6-5,no,no
+1981/82,EL,Round 3,Rapid Wien,Aut,Real Madrid,Esp,0-1,0-0,0-1,no,no
+1981/82,EL,Round 3,KSC Lokeren,Bel,1.FC Kaiserslautern,Ger,1-0,1-4,2-4,no,no
+1981/82,EL,Round 3,Radnicki Nis,YUG,Feyenoord,Ned,2-0,0-1,2-1,no,no
+1981/82,EL,Round 3,KFC Winterslag,Bel,Dundee United,Sco,0-0,0-5,0-5,no,no
+1981/82,EL,Round 3,Sporting CP Lisbon,Por,Xamax Neuchâtel,Sui,0-0,0-1,0-1,no,no
+1981/82,EL,Round 3,Aberdeen,Sco,Hamburger SV,Ger,3-2,1-3,4-5,no,no
+1981/82,EL,Quarter Finals,Valencia,Esp,IFK Göteborg,Swe,2-2,0-2,2-4,no,no
+1981/82,EL,Quarter Finals,Real Madrid,Esp,1.FC Kaiserslautern,Ger,3-1,0-5,3-6,no,no
+1981/82,EL,Quarter Finals,Dundee United,Sco,Radnicki Nis,YUG,2-0,0-3,2-3,no,no
+1981/82,EL,Quarter Finals,Hamburger SV,Ger,Xamax Neuchâtel,Sui,3-2,0-0,3-2,no,no
+1981/82,EL,Semi Finals,1.FC Kaiserslautern,Ger,IFK Göteborg,Swe,1-1,1-2,2-3,no,no
+1981/82,EL,Semi Finals,Radnicki Nis,YUG,Hamburger SV,Ger,2-1,1-5,3-6,no,no
+1981/82,EL,Final,IFK Göteborg,Swe,Hamburger SV,Ger,1-0,3-0,4-0,no,no
+1982/83,CL,Qualifying Round,Dinamo Bucuresti,Rom,Vålerengens IF,Nor,3-1,1-2,4-3,no,no
+1982/83,CL,Round 1,BFC Dynamo Berlin,GDR,Hamburger SV,Ger,1-1,0-2,1-3,no,no
+1982/83,CL,Round 1,Olympiakos Piraeus,Gre,Östers IF,Swe,2-0,0-1,2-1,no,no
+1982/83,CL,Round 1,17 Nëntori Tirana,Alb,Linfield Belfast,Nir,1-0,1-2,2-2,no,no
+1982/83,CL,Round 1,Grasshoppers Zürich,Sui,Dinamo Kiev,URS,0-1,0-3,0-4,no,no
+1982/83,CL,Round 1,Dinamo Zagreb,YUG,Sporting CP Lisbon,Por,1-0,0-3,1-3,no,no
+1982/83,CL,Round 1,AS Monaco,Fra,CSKA Sofia,Bul,0-0,0-2,0-2,no,no
+1982/83,CL,Round 1,Celtic,Sco,Ajax,Ned,2-2,2-1,4-3,no,no
+1982/83,CL,Round 1,Vikingur Reykjavik,Isl,Real Sociedad,Esp,0-1,2-3,2-4,no,no
+1982/83,CL,Round 1,Hibernians FC,Mlt,Widzew Lódz,Pol,1-4,1-3,2-7,no,no
+1982/83,CL,Round 1,Avenir Beggen,Lux,Rapid Wien,Aut,0-5,0-8,0-13,no,no
+1982/83,CL,Round 1,Omonia Nicosia,Cyp,HJK Helsinki,Fin,2-0,0-3,2-3,no,no
+1982/83,CL,Round 1,Dundalk,Irl,Liverpool,Eng,1-4,0-1,1-5,no,no
+1982/83,CL,Round 1,Aston Villa,Eng,Besiktas,Tur,3-1,0-0,3-1,no,no
+1982/83,CL,Round 1,Dinamo Bucuresti,Rom,Dukla Praha,TCH,2-0,1-2,3-2,no,no
+1982/83,CL,Round 1,Standard Liège,Bel,ETO Györ,Hun,5-0,0-3,5-3,no,no
+1982/83,CL,Round 1,Hvidovre IF,Den,Juventus,Ita,1-4,3-3,4-7,no,no
+1982/83,CL,Round 2,Hamburger SV,Ger,Olympiakos Piraeus,Gre,1-0,4-0,5-0,no,no
+1982/83,CL,Round 2,CSKA Sofia,Bul,Sporting CP Lisbon,Por,2-2,0-0,2-2,no,no
+1982/83,CL,Round 2,Real Sociedad,Esp,Celtic,Sco,2-0,1-2,3-2,no,no
+1982/83,CL,Round 2,Rapid Wien,Aut,Widzew Lódz,Pol,2-1,3-5,5-6,no,no
+1982/83,CL,Round 2,HJK Helsinki,Fin,Liverpool,Eng,1-0,0-5,1-5,no,no
+1982/83,CL,Round 2,Dinamo Bucuresti,Rom,Aston Villa,Eng,0-2,2-4,2-6,no,no
+1982/83,CL,Round 2,Standard Liège,Bel,Juventus,Ita,1-1,0-2,1-3,no,no
+1982/83,CL,Quarter Finals,Dinamo Kiev,URS,Hamburger SV,Ger,0-3,2-1,2-4,no,no
+1982/83,CL,Quarter Finals,Sporting CP Lisbon,Por,Real Sociedad,Esp,1-0,0-2,1-2,no,no
+1982/83,CL,Quarter Finals,Widzew Lódz,Pol,Liverpool,Eng,2-0,2-3,4-3,no,no
+1982/83,CL,Quarter Finals,Aston Villa,Eng,Juventus,Ita,1-2,1-3,2-5,no,no
+1982/83,CL,Semi Finals,Real Sociedad,Esp,Hamburger SV,Ger,1-1,1-2,2-3,no,no
+1982/83,CL,Semi Finals,Juventus,Ita,Widzew Lódz,Pol,2-0,2-2,4-2,no,no
+1982/83,CL,Final,Hamburger SV,Ger,Juventus,Ita,1-0,,1-0,no,no
+1982/83,CW,Qualifying Round,Aberdeen,Sco,FC Sion,Sui,7-0,4-1,11-1,no,no
+1982/83,CW,Qualifying Round,Swansea City,Wal,Sporting Braga,Por,3-0,0-1,3-1,no,no
+1982/83,CW,Round 1,Aberdeen,Sco,Dinamo Tirana,Alb,1-0,0-0,1-0,no,no
+1982/83,CW,Round 1,IBV Vestmannaeyjar,Isl,Lech Poznan,Pol,0-1,0-3,0-4,no,no
+1982/83,CW,Round 1,Coleraine,Nir,Tottenham Hotspur,Eng,0-3,0-4,0-7,no,no
+1982/83,CW,Round 1,Torpedo Moscow,URS,Bayern München,Ger,1-1,0-0,1-1,no,no
+1982/83,CW,Round 1,Lokomotiv Sofia,Bul,Paris Saint-Germain,Fra,1-0,1-5,2-5,no,no
+1982/83,CW,Round 1,Swansea City,Wal,Sliema Wanderers,Mlt,12-0,5-0,17-0,no,no
+1982/83,CW,Round 1,Dynamo Dresden,GDR,B93 København,Den,3-2,1-2,4-4,no,no
+1982/83,CW,Round 1,THOR Waterschei,Bel,Red Boys Differdange,Lux,7-1,1-0,8-1,no,no
+1982/83,CW,Round 1,Austria Wien,Aut,Panathinaikos,Gre,2-0,1-2,3-2,no,no
+1982/83,CW,Round 1,Galatasaray,Tur,Kuusysi Lahti,Fin,2-1,1-1,3-2,no,no
+1982/83,CW,Round 1,Lillestrøm SK,Nor,Red Star Belgrade,YUG,0-4,0-3,0-7,no,no
+1982/83,CW,Round 1,FC Barcelona,Esp,Apollon Limassol,Cyp,8-0,1-1,9-1,no,no
+1982/83,CW,Round 1,Internazionale,Ita,Slovan Bratislava,TCH,2-0,1-2,3-2,no,no
+1982/83,CW,Round 1,Limerick,Irl,AZ Alkmaar,Ned,1-1,0-1,1-2,no,no
+1982/83,CW,Round 1,IFK Göteborg,Swe,Újpest Dózsa,Hun,1-1,1-3,2-4,no,no
+1982/83,CW,Round 1,FC Baia Mare,Rom,Real Madrid,Esp,0-0,2-5,2-5,no,no
+1982/83,CW,Round 2,Aberdeen,Sco,Lech Poznan,Pol,2-0,1-0,3-0,no,no
+1982/83,CW,Round 2,Tottenham Hotspur,Eng,Bayern München,Ger,1-1,1-4,2-5,no,no
+1982/83,CW,Round 2,Swansea City,Wal,Paris Saint-Germain,Fra,0-1,0-2,0-3,no,no
+1982/83,CW,Round 2,B93 København,Den,THOR Waterschei,Bel,0-2,1-4,1-6,no,no
+1982/83,CW,Round 2,Galatasaray,Tur,Austria Wien,Aut,2-4,1-0,3-4,no,no
+1982/83,CW,Round 2,Red Star Belgrade,YUG,FC Barcelona,Esp,2-4,1-2,3-6,no,no
+1982/83,CW,Round 2,AZ Alkmaar,Ned,Internazionale,Ita,1-0,0-2,1-2,no,no
+1982/83,CW,Round 2,Real Madrid,Esp,Újpest Dózsa,Hun,3-1,1-0,4-1,no,no
+1982/83,CW,Quarter Finals,Bayern München,Ger,Aberdeen,Sco,0-0,2-3,2-3,no,no
+1982/83,CW,Quarter Finals,Paris Saint-Germain,Fra,THOR Waterschei,Bel,2-0,0-3,2-3,no,no
+1982/83,CW,Quarter Finals,Austria Wien,Aut,FC Barcelona,Esp,0-0,1-1,1-1,no,no
+1982/83,CW,Quarter Finals,Internazionale,Ita,Real Madrid,Esp,1-1,1-2,2-3,no,no
+1982/83,CW,Semi Finals,Aberdeen,Sco,THOR Waterschei,Bel,5-1,0-1,5-2,no,no
+1982/83,CW,Semi Finals,Austria Wien,Aut,Real Madrid,Esp,2-2,1-3,3-5,no,no
+1982/83,CW,Final,Aberdeen,Sco,Real Madrid,Esp,2-1,,2-1,no,no
+1982/83,EL,Round 1,Anderlecht,Bel,Koparit Kuopio,Fin,3-0,3-1,6-1,no,no
+1982/83,EL,Round 1,FC Utrecht,Ned,FC Porto,Por,0-1,0-2,0-3,no,no
+1982/83,EL,Round 1,Grazer AK,Aut,Corvinul Hunedoara,Rom,1-1,0-3,1-4,no,no
+1982/83,EL,Round 1,Slavia Sofia,Bul,FK Sarajevo,YUG,2-2,2-4,4-6,no,no
+1982/83,EL,Round 1,Spartak Moscow,URS,Arsenal,Eng,3-2,5-2,8-4,no,no
+1982/83,EL,Round 1,FC Haarlem,Ned,AA Gent,Bel,2-1,3-3,5-4,no,no
+1982/83,EL,Round 1,Glentoran,Nir,Baník Ostrava,TCH,1-3,0-1,1-4,no,no
+1982/83,EL,Round 1,Manchester United,Eng,Valencia,Esp,0-0,1-2,1-2,no,no
+1982/83,EL,Round 1,Dundee United,Sco,PSV Eindhoven,Ned,1-1,2-0,3-1,no,no
+1982/83,EL,Round 1,Viking Stavanger,Nor,Lokomotive Leipzig,GDR,1-0,2-3,3-3,no,no
+1982/83,EL,Round 1,Lyngby BK,Den,IK Brage,Swe,1-2,2-2,3-4,no,no
+1982/83,EL,Round 1,FC Vorwärts Frankfurt,GDR,Werder Bremen,Ger,1-3,2-0,3-3,no,no
+1982/83,EL,Round 1,Progrès Niederkorn,Lux,Servette FC Genève,Sui,0-1,0-3,0-4,no,no
+1982/83,EL,Round 1,Slask Wroclaw,Pol,Dinamo Moscow,URS,2-2,1-0,3-2,no,no
+1982/83,EL,Round 1,AS Saint-Étienne,Fra,Tatabánya,Hun,4-1,0-0,4-1,no,no
+1982/83,EL,Round 1,Bohemians Praha,TCH,Admira Wacker,Aut,5-0,2-1,7-1,no,no
+1982/83,EL,Round 1,Universitatea Craiova,Rom,Fiorentina,Ita,3-1,0-1,3-2,no,no
+1982/83,EL,Round 1,Fram Reykjavik,Isl,Shamrock Rovers,Irl,0-3,0-4,0-7,no,no
+1982/83,EL,Round 1,Zurrieq FC,Mlt,Hajduk Split,YUG,1-4,0-4,1-8,no,no
+1982/83,EL,Round 1,Carl Zeiss Jena,GDR,Girondins Bordeaux,Fra,3-1,0-5,3-6,no,no
+1982/83,EL,Round 1,Sevilla,Esp,Levski-Spartak Sofia,Bul,3-1,3-0,6-1,no,no
+1982/83,EL,Round 1,PAOK Thessaloniki,Gre,FC Sochaux-Montbéliard,Fra,1-0,1-2,2-2,no,no
+1982/83,EL,Round 1,Dinamo Tbilisi,URS,Napoli,Ita,2-1,0-1,2-2,no,no
+1982/83,EL,Round 1,1.FC Kaiserslautern,Ger,Trabzonspor,Tur,3-0,3-0,6-0,no,no
+1982/83,EL,Round 1,AS Roma,Ita,Ipswich Town,Eng,3-0,1-3,4-3,no,no
+1982/83,EL,Round 1,Southampton FC,Eng,IFK Norrköping,Swe,2-2,0-0,2-2,no,no
+1982/83,EL,Round 1,Borussia Dortmund,Ger,Glasgow Rangers,Sco,0-0,0-2,0-2,no,no
+1982/83,EL,Round 1,AEK Athens,Gre,1.FC Köln,Ger,0-1,0-5,0-6,no,no
+1982/83,EL,Round 1,Pezoporikos Larnaca,Cyp,FC Zürich,Sui,2-2,0-1,2-3,no,no
+1982/83,EL,Round 1,Ferencváros,Hun,Athletic Bilbao,Esp,2-1,1-1,3-2,no,no
+1982/83,EL,Round 1,Stal Mielec,Pol,KSC Lokeren,Bel,1-1,0-0,1-1,no,no
+1982/83,EL,Round 1,Benfica,Por,Real Betis,Esp,2-1,2-1,4-2,no,no
+1982/83,EL,Round 2,Anderlecht,Bel,FC Porto,Por,4-0,2-3,6-3,no,no
+1982/83,EL,Round 2,Corvinul Hunedoara,Rom,FK Sarajevo,YUG,4-4,0-4,4-8,no,no
+1982/83,EL,Round 2,Spartak Moscow,URS,FC Haarlem,Ned,2-0,3-1,5-1,no,no
+1982/83,EL,Round 2,Valencia,Esp,Baník Ostrava,TCH,1-0,0-0,1-0,no,no
+1982/83,EL,Round 2,Viking Stavanger,Nor,Dundee United,Sco,1-3,0-0,1-3,no,no
+1982/83,EL,Round 2,Werder Bremen,Ger,IK Brage,Swe,2-0,6-2,8-2,no,no
+1982/83,EL,Round 2,Slask Wroclaw,Pol,Servette FC Genève,Sui,0-2,1-5,1-7,no,no
+1982/83,EL,Round 2,AS Saint-Étienne,Fra,Bohemians Praha,TCH,0-0,0-4,0-4,no,no
+1982/83,EL,Round 2,Shamrock Rovers,Irl,Universitatea Craiova,Rom,0-2,0-3,0-5,no,no
+1982/83,EL,Round 2,Hajduk Split,YUG,Girondins Bordeaux,Fra,4-1,0-4,4-5,no,no
+1982/83,EL,Round 2,PAOK Thessaloniki,Gre,Sevilla,Esp,2-0,0-4,2-4,no,no
+1982/83,EL,Round 2,Napoli,Ita,1.FC Kaiserslautern,Ger,1-2,0-2,1-4,no,no
+1982/83,EL,Round 2,AS Roma,Ita,IFK Norrköping,Swe,1-0,0-1,1-1,no,no
+1982/83,EL,Round 2,Glasgow Rangers,Sco,1.FC Köln,Ger,2-1,0-5,2-6,no,no
+1982/83,EL,Round 2,Ferencváros,Hun,FC Zürich,Sui,1-1,0-1,1-2,no,no
+1982/83,EL,Round 2,Benfica,Por,KSC Lokeren,Bel,2-0,2-1,4-1,no,no
+1982/83,EL,Round 3,Anderlecht,Bel,FK Sarajevo,YUG,6-1,0-1,6-2,no,no
+1982/83,EL,Round 3,Spartak Moscow,URS,Valencia,Esp,0-0,0-2,0-2,no,no
+1982/83,EL,Round 3,Dundee United,Sco,Werder Bremen,Ger,2-1,1-1,3-2,no,no
+1982/83,EL,Round 3,Servette FC Genève,Sui,Bohemians Praha,TCH,2-2,1-2,3-4,no,no
+1982/83,EL,Round 3,Girondins Bordeaux,Fra,Universitatea Craiova,Rom,1-0,0-2,1-2,no,no
+1982/83,EL,Round 3,Sevilla,Esp,1.FC Kaiserslautern,Ger,1-0,0-4,1-4,no,no
+1982/83,EL,Round 3,1.FC Köln,Ger,AS Roma,Ita,1-0,0-2,1-2,no,no
+1982/83,EL,Round 3,FC Zürich,Sui,Benfica,Por,1-1,0-4,1-5,no,no
+1982/83,EL,Quarter Finals,Valencia,Esp,Anderlecht,Bel,1-2,1-3,2-5,no,no
+1982/83,EL,Quarter Finals,Bohemians Praha,TCH,Dundee United,Sco,1-0,0-0,1-0,no,no
+1982/83,EL,Quarter Finals,1.FC Kaiserslautern,Ger,Universitatea Craiova,Rom,3-2,0-1,3-3,no,no
+1982/83,EL,Quarter Finals,AS Roma,Ita,Benfica,Por,1-2,1-1,2-3,no,no
+1982/83,EL,Semi Finals,Bohemians Praha,TCH,Anderlecht,Bel,0-1,1-3,1-4,no,no
+1982/83,EL,Semi Finals,Benfica,Por,Universitatea Craiova,Rom,0-0,1-1,1-1,no,no
+1982/83,EL,Final,Anderlecht,Bel,Benfica,Por,1-0,1-1,2-1,no,no
