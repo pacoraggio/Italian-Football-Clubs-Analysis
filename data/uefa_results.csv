@@ -1,4 +1,380 @@
 season,competition,round,team_a,country_a,team_b,country_b,score_leg1,score_leg2,score_aggregate,extra_time,penalties
+1975/76,CL,Round 1,Benfica,Por,Fenerbahçe,Tur,7-0,0-1,7-1,no,no
+1975/76,CL,Round 1,Borussia Mönchengladbach,Ger,Wacker Innsbruck,Aut,1-1,6-1,7-2,no,no
+1975/76,CL,Round 1,KB København,Den,AS Saint-Étienne,Fra,0-2,1-3,1-5,no,no
+1975/76,CL,Round 1,CSKA Sofia,Bul,Juventus,Ita,2-1,0-2,2-3,no,no
+1975/76,CL,Round 1,Floriana,Mlt,Hajduk Split,YUG,0-5,0-3,0-8,no,no
+1975/76,CL,Round 1,Jeunesse d'Esch,Lux,Bayern München,Ger,0-5,1-3,1-8,no,no
+1975/76,CL,Round 1,Linfield Belfast,Nir,PSV Eindhoven,Ned,1-2,0-8,1-10,no,no
+1975/76,CL,Round 1,Malmö FF,Swe,1.FC Magdeburg,GDR,2-1,1-2,3-3,no,no
+1975/76,CL,Round 1,Olympiakos Piraeus,Gre,Dinamo Kiev,URS,2-2,0-1,2-3,no,no
+1975/76,CL,Round 1,Glasgow Rangers,Sco,Bohemians Dublin,Irl,4-1,1-1,5-2,no,no
+1975/76,CL,Round 1,Real Madrid,Esp,Dinamo Bucuresti,Rom,4-1,0-1,4-2,no,no
+1975/76,CL,Round 1,Ruch Chorzow,Pol,KuPS Kuopio,Fin,5-0,2-2,7-2,no,no
+1975/76,CL,Round 1,Slovan Bratislava,TCH,Derby County,Eng,1-0,0-3,1-3,no,no
+1975/76,CL,Round 1,Újpest Dózsa,Hun,FC Zürich,Sui,4-0,1-5,5-5,no,no
+1975/76,CL,Round 1,RWD Molenbeek,Bel,Viking Stavanger,Nor,3-2,1-0,4-2,no,no
+1975/76,CL,Round 1,Omonia Nicosia,Cyp,IA Akranes,Isl,2-1,0-4,2-5,no,no
+1975/76,CL,Round 2,Benfica,Por,Újpest Dózsa,Hun,5-2,1-3,6-5,no,no
+1975/76,CL,Round 2,Borussia Mönchengladbach,Ger,Juventus,Ita,2-0,2-2,4-2,no,no
+1975/76,CL,Round 2,Derby County,Eng,Real Madrid,Esp,4-1,1-5,5-6,no,no
+1975/76,CL,Round 2,Dinamo Kiev,URS,IA Akranes,Isl,3-0,2-0,5-0,no,no
+1975/76,CL,Round 2,Hajduk Split,YUG,RWD Molenbeek,Bel,4-0,3-2,7-2,no,no
+1975/76,CL,Round 2,Malmö FF,Swe,Bayern München,Ger,1-0,0-2,1-2,no,no
+1975/76,CL,Round 2,Ruch Chorzow,Pol,PSV Eindhoven,Ned,1-3,0-4,1-7,no,no
+1975/76,CL,Round 2,AS Saint-Étienne,Fra,Glasgow Rangers,Sco,2-0,2-1,4-1,no,no
+1975/76,CL,Quarter Finals,Benfica,Por,Bayern München,Ger,0-0,1-5,1-5,no,no
+1975/76,CL,Quarter Finals,Borussia Mönchengladbach,Ger,Real Madrid,Esp,2-2,1-1,3-3,no,no
+1975/76,CL,Quarter Finals,Dinamo Kiev,URS,AS Saint-Étienne,Fra,2-0,0-3,2-3,no,no
+1975/76,CL,Quarter Finals,Hajduk Split,YUG,PSV Eindhoven,Ned,2-0,0-3,2-3,no,no
+1975/76,CL,Semi Finals,Real Madrid,Esp,Bayern München,Ger,1-1,0-2,1-3,no,no
+1975/76,CL,Semi Finals,AS Saint-Étienne,Fra,PSV Eindhoven,Ned,1-0,0-0,1-0,no,no
+1975/76,CL,Final,Bayern München,Ger,AS Saint-Étienne,Fra,1-0,,1-0,no,no
+1975/76,CW,Round 1,Ararat Yerevan,URS,Anorthosis Famagusta,Cyp,9-0,1-1,10-1,no,no
+1975/76,CW,Round 1,FC Basel,Sui,Atlético Madrid,Esp,1-2,1-1,2-3,no,no
+1975/76,CW,Round 1,Besiktas,Tur,Fiorentina,Ita,0-3,0-3,0-6,no,no
+1975/76,CW,Round 1,FK Borac Banja Luka,YUG,US Rumelange,Lux,9-0,5-1,14-1,no,no
+1975/76,CW,Round 1,Eintracht Frankfurt,Ger,Coleraine,Nir,5-1,6-2,11-3,no,no
+1975/76,CW,Round 1,Haladás Szombathely,Hun,Valletta FC,Mlt,7-0,1-1,8-1,no,no
+1975/76,CW,Round 1,Home Farm FC,Irl,RC Lens,Fra,1-1,0-6,1-7,no,no
+1975/76,CW,Round 1,Reipas Lahti,Fin,West Ham United,Eng,2-2,0-3,2-5,no,no
+1975/76,CW,Round 1,Panathinaikos,Gre,Sachsenring Zwickau,GDR,0-0,0-2,0-2,no,no
+1975/76,CW,Round 1,Rapid Bucuresti,Rom,Anderlecht,Bel,1-0,0-2,1-2,no,no
+1975/76,CW,Round 1,Spartak Trnava,TCH,Boavista,Por,0-0,0-3,0-3,no,no
+1975/76,CW,Round 1,Skeid Oslo,Nor,Stal Rzeszów,Pol,1-4,0-4,1-8,no,no
+1975/76,CW,Round 1,Sturm Graz,Aut,Slavia Sofia,Bul,3-1,0-1,3-2,no,no
+1975/76,CW,Round 1,Valur Reykjavik,Isl,Celtic,Sco,0-2,0-7,0-9,no,no
+1975/76,CW,Round 1,Vejle BK,Den,FC Den Haag,Ned,0-2,0-2,0-4,no,no
+1975/76,CW,Round 1,Wrexham,Wal,Djurgårdens IF,Swe,2-1,1-1,3-2,no,no
+1975/76,CW,Round 2,Anderlecht,Bel,FK Borac Banja Luka,YUG,3-0,0-1,3-1,no,no
+1975/76,CW,Round 2,Ararat Yerevan,URS,West Ham United,Eng,1-1,1-3,2-4,no,no
+1975/76,CW,Round 2,Atlético Madrid,Esp,Eintracht Frankfurt,Ger,1-2,0-1,1-3,no,no
+1975/76,CW,Round 2,Boavista,Por,Celtic,Sco,0-0,1-3,1-3,no,no
+1975/76,CW,Round 2,FC Den Haag,Ned,RC Lens,Fra,3-2,3-1,6-3,no,no
+1975/76,CW,Round 2,Fiorentina,Ita,Sachsenring Zwickau,GDR,1-0,0-1,1-1,no,no
+1975/76,CW,Round 2,Sturm Graz,Aut,Haladás Szombathely,Hun,2-0,1-1,3-1,no,no
+1975/76,CW,Round 2,Wrexham,Wal,Stal Rzeszów,Pol,2-0,1-1,3-1,no,no
+1975/76,CW,Quarter Finals,Anderlecht,Bel,Wrexham,Wal,1-0,1-1,2-1,no,no
+1975/76,CW,Quarter Finals,Celtic,Sco,Sachsenring Zwickau,GDR,1-1,0-1,1-2,no,no
+1975/76,CW,Quarter Finals,FC Den Haag,Ned,West Ham United,Eng,4-2,1-3,5-5,no,no
+1975/76,CW,Quarter Finals,Sturm Graz,Aut,Eintracht Frankfurt,Ger,0-2,0-1,0-3,no,no
+1975/76,CW,Semi Finals,Eintracht Frankfurt,Ger,West Ham United,Eng,2-1,1-3,3-4,no,no
+1975/76,CW,Semi Finals,Sachsenring Zwickau,GDR,Anderlecht,Bel,0-3,0-2,0-5,no,no
+1975/76,CW,Final,Anderlecht,Bel,West Ham United,Eng,4-2,,4-2,no,no
+1975/76,EL,Round 1,MSV Duisburg,Ger,Enosis Paralimni,Cyp,7-1,3-2,10-3,no,no
+1975/76,EL,Round 1,Glentoran,Nir,Ajax,Ned,1-6,0-8,1-14,no,no
+1975/76,EL,Round 1,Grasshoppers Zürich,Sui,Real Sociedad,Esp,3-3,1-1,4-4,no,no
+1975/76,EL,Round 1,PAOK Thessaloniki,Gre,FC Barcelona,Esp,1-0,1-6,2-6,no,no
+1975/76,EL,Round 1,AIK Stockholm,Swe,Spartak Moscow,URS,1-1,0-1,1-2,no,no
+1975/76,EL,Round 1,Royal Antwerp,Bel,Aston Villa,Eng,4-1,1-0,5-1,no,no
+1975/76,EL,Round 1,Bohemians Praha,TCH,Honvéd Budapest,Hun,1-2,1-1,2-3,no,no
+1975/76,EL,Round 1,Carl Zeiss Jena,GDR,Olympique Marseille,Fra,3-0,1-0,4-0,no,no
+1975/76,EL,Round 1,Universitatea Craiova,Rom,Red Star Belgrade,YUG,1-3,1-1,2-4,no,no
+1975/76,EL,Round 1,Everton,Eng,AC Milan,Ita,0-0,0-1,0-1,no,no
+1975/76,EL,Round 1,Feyenoord,Ned,Ipswich Town,Eng,1-2,0-2,1-4,no,no
+1975/76,EL,Round 1,GAIS Göteborg,Swe,Slask Wroclaw,Pol,2-1,2-4,4-5,no,no
+1975/76,EL,Round 1,Hertha BSC,Ger,HJK Helsinki,Fin,4-1,2-1,6-2,no,no
+1975/76,EL,Round 1,Hibernian,Sco,Liverpool,Eng,1-0,1-3,2-3,no,no
+1975/76,EL,Round 1,Holbæk B&IF,Den,Stal Mielec,Pol,0-1,1-2,1-3,no,no
+1975/76,EL,Round 1,1.FC Köln,Ger,B1903 København,Den,2-0,3-2,5-2,no,no
+1975/76,EL,Round 1,Olympique Lyon,Fra,Club Brugge,Bel,4-3,0-3,4-6,no,no
+1975/76,EL,Round 1,Molde FK,Nor,Östers IF,Swe,1-0,0-6,1-6,no,no
+1975/76,EL,Round 1,ASA Tirgu Mures,Rom,Dynamo Dresden,GDR,2-2,1-4,3-6,no,no
+1975/76,EL,Round 1,Chernomorets Odessa,URS,Lazio,Ita,1-0,0-3,1-3,no,no
+1975/76,EL,Round 1,FC Porto,Por,Avenir Beggen,Lux,7-0,3-0,10-0,no,no
+1975/76,EL,Round 1,Rapid Wien,Aut,Galatasaray,Tur,1-0,1-3,2-3,no,no
+1975/76,EL,Round 1,AS Roma,Ita,Dunav Ruse,Bul,2-0,0-1,2-1,no,no
+1975/76,EL,Round 1,Torpedo Moscow,URS,Napoli,Ita,4-1,1-1,5-2,no,no
+1975/76,EL,Round 1,SK Vöest Linz,Aut,Vasas Budapest,Hun,2-0,0-4,2-4,no,no
+1975/76,EL,Round 1,Vojvodina Novi Sad,YUG,AEK Athens,Gre,0-0,1-3,1-3,no,no
+1975/76,EL,Round 1,Young Boys,Sui,Hamburger SV,Ger,0-0,2-4,2-4,no,no
+1975/76,EL,Round 1,Athlone Town,Irl,Vålerengens IF,Nor,3-1,1-1,4-2,no,no
+1975/76,EL,Round 1,TJ Internacional,TCH,Real Zaragoza,Esp,5-0,3-2,8-2,no,no
+1975/76,EL,Round 1,Keflavik,Isl,Dundee United,Sco,0-2,0-4,0-6,no,no
+1975/76,EL,Round 1,Levski-Spartak Sofia,Bul,Eskisehirspor,Tur,3-0,4-1,7-1,no,no
+1975/76,EL,Round 1,Sliema Wanderers,Mlt,Sporting CP Lisbon,Por,1-2,1-3,2-5,no,no
+1975/76,EL,Round 2,MSV Duisburg,Ger,Levski-Spartak Sofia,Bul,3-2,1-2,4-4,no,no
+1975/76,EL,Round 2,Athlone Town,Irl,AC Milan,Ita,0-0,0-3,0-3,no,no
+1975/76,EL,Round 2,Carl Zeiss Jena,GDR,Stal Mielec,Pol,1-0,0-1,1-1,no,no
+1975/76,EL,Round 2,Dundee United,Sco,FC Porto,Por,1-2,1-1,2-3,no,no
+1975/76,EL,Round 2,Galatasaray,Tur,Torpedo Moscow,URS,2-4,0-3,2-7,no,no
+1975/76,EL,Round 2,Hertha BSC,Ger,Ajax,Ned,1-0,1-4,2-4,no,no
+1975/76,EL,Round 2,Honvéd Budapest,Hun,Dynamo Dresden,GDR,2-2,0-1,2-3,no,no
+1975/76,EL,Round 2,TJ Internacional,TCH,AEK Athens,Gre,2-0,1-3,3-3,no,no
+1975/76,EL,Round 2,Ipswich Town,Eng,Club Brugge,Bel,3-0,0-4,3-4,no,no
+1975/76,EL,Round 2,Spartak Moscow,URS,1.FC Köln,Ger,2-0,1-0,3-0,no,no
+1975/76,EL,Round 2,Östers IF,Swe,AS Roma,Ita,1-0,0-2,1-2,no,no
+1975/76,EL,Round 2,Real Sociedad,Esp,Liverpool,Eng,1-3,0-6,1-9,no,no
+1975/76,EL,Round 2,Red Star Belgrade,YUG,Hamburger SV,Ger,1-1,0-4,1-5,no,no
+1975/76,EL,Round 2,Slask Wroclaw,Pol,Royal Antwerp,Bel,1-1,2-1,3-2,no,no
+1975/76,EL,Round 2,Vasas Budapest,Hun,Sporting CP Lisbon,Por,3-1,1-2,4-3,no,no
+1975/76,EL,Round 2,FC Barcelona,Esp,Lazio,Ita,4-0,,4-0,no,no
+1975/76,EL,Round 3,Ajax,Ned,Levski-Spartak Sofia,Bul,2-1,1-2,3-3,no,no
+1975/76,EL,Round 3,FC Barcelona,Esp,Vasas Budapest,Hun,3-1,1-0,4-1,no,no
+1975/76,EL,Round 3,Club Brugge,Bel,AS Roma,Ita,1-0,1-0,2-0,no,no
+1975/76,EL,Round 3,Dynamo Dresden,GDR,Torpedo Moscow,URS,3-0,1-3,4-3,no,no
+1975/76,EL,Round 3,Hamburger SV,Ger,FC Porto,Por,2-0,1-2,3-2,no,no
+1975/76,EL,Round 3,TJ Internacional,TCH,Stal Mielec,Pol,1-0,0-2,1-2,no,no
+1975/76,EL,Round 3,Slask Wroclaw,Pol,Liverpool,Eng,1-2,0-3,1-5,no,no
+1975/76,EL,Round 3,AC Milan,Ita,Spartak Moscow,URS,4-0,0-2,4-2,no,no
+1975/76,EL,Quarter Finals,FC Barcelona,Esp,Levski-Spartak Sofia,Bul,4-0,4-5,8-5,no,no
+1975/76,EL,Quarter Finals,Club Brugge,Bel,AC Milan,Ita,2-0,1-2,3-2,no,no
+1975/76,EL,Quarter Finals,Dynamo Dresden,GDR,Liverpool,Eng,0-0,1-2,1-2,no,no
+1975/76,EL,Quarter Finals,Hamburger SV,Ger,Stal Mielec,Pol,1-1,1-0,2-1,no,no
+1975/76,EL,Semi Finals,FC Barcelona,Esp,Liverpool,Eng,0-1,1-1,1-2,no,no
+1975/76,EL,Semi Finals,Hamburger SV,Ger,Club Brugge,Bel,1-1,0-1,1-2,no,no
+1975/76,EL,Final,Liverpool,Eng,Club Brugge,Bel,3-2,1-1,4-3,no,no
+1976/77,CL,Round 1,IA Akranes,Isl,Trabzonspor,Tur,1-3,2-3,3-6,no,no
+1976/77,CL,Round 1,Austria Wien,Aut,Borussia Mönchengladbach,Ger,1-0,0-3,1-3,no,no
+1976/77,CL,Round 1,Club Brugge,Bel,Steaua Bucuresti,Rom,2-1,1-1,3-2,no,no
+1976/77,CL,Round 1,CSKA Sofia,Bul,AS Saint-Étienne,Fra,0-0,0-1,0-1,no,no
+1976/77,CL,Round 1,Dynamo Dresden,GDR,Benfica,Por,2-0,0-0,2-0,no,no
+1976/77,CL,Round 1,Dundalk,Irl,PSV Eindhoven,Ned,1-1,0-6,1-7,no,no
+1976/77,CL,Round 1,Ferencváros,Hun,Jeunesse d'Esch,Lux,5-1,6-2,11-3,no,no
+1976/77,CL,Round 1,Dinamo Kiev,URS,Partizan Belgrade,YUG,3-0,2-0,5-0,no,no
+1976/77,CL,Round 1,Omonia Nicosia,Cyp,PAOK Thessaloniki,Gre,0-2,1-1,1-3,no,no
+1976/77,CL,Round 1,Glasgow Rangers,Sco,FC Zürich,Sui,1-1,0-1,1-2,no,no
+1976/77,CL,Round 1,Stal Mielec,Pol,Real Madrid,Esp,1-2,0-1,1-3,no,no
+1976/77,CL,Round 1,Viking Stavanger,Nor,Baník Ostrava,TCH,2-1,0-2,2-3,no,no
+1976/77,CL,Round 1,Torino,Ita,Malmö FF,Swe,2-1,1-1,3-2,no,no
+1976/77,CL,Round 1,Liverpool,Eng,Crusaders Belfast,Nir,2-0,5-0,7-0,no,no
+1976/77,CL,Round 1,Køge BK,Den,Bayern München,Ger,0-5,1-2,1-7,no,no
+1976/77,CL,Round 1,Sliema Wanderers,Mlt,TPS Turku,Fin,2-1,0-1,2-2,no,no
+1976/77,CL,Round 2,Dinamo Kiev,URS,PAOK Thessaloniki,Gre,4-0,2-0,6-0,no,no
+1976/77,CL,Round 2,Ferencváros,Hun,Dynamo Dresden,GDR,1-0,0-4,1-4,no,no
+1976/77,CL,Round 2,Real Madrid,Esp,Club Brugge,Bel,0-0,0-2,0-2,no,no
+1976/77,CL,Round 2,AS Saint-Étienne,Fra,PSV Eindhoven,Ned,1-0,0-0,1-0,no,no
+1976/77,CL,Round 2,Torino,Ita,Borussia Mönchengladbach,Ger,1-2,0-0,1-2,no,no
+1976/77,CL,Round 2,Trabzonspor,Tur,Liverpool,Eng,1-0,0-3,1-3,no,no
+1976/77,CL,Round 2,FC Zürich,Sui,TPS Turku,Fin,2-0,1-0,3-0,no,no
+1976/77,CL,Round 2,Baník Ostrava,TCH,Bayern München,Ger,2-1,0-5,2-6,no,no
+1976/77,CL,Quarter Finals,Bayern München,Ger,Dinamo Kiev,URS,1-0,0-2,1-2,no,no
+1976/77,CL,Quarter Finals,Borussia Mönchengladbach,Ger,Club Brugge,Bel,2-2,1-0,3-2,no,no
+1976/77,CL,Quarter Finals,AS Saint-Étienne,Fra,Liverpool,Eng,1-0,1-3,2-3,no,no
+1976/77,CL,Quarter Finals,FC Zürich,Sui,Dynamo Dresden,GDR,2-1,2-3,4-4,no,no
+1976/77,CL,Semi Finals,Dinamo Kiev,URS,Borussia Mönchengladbach,Ger,1-0,0-2,1-2,no,no
+1976/77,CL,Semi Finals,FC Zürich,Sui,Liverpool,Eng,1-3,0-3,1-6,no,no
+1976/77,CL,Final,Liverpool,Eng,Borussia Mönchengladbach,Ger,3-1,,3-1,no,no
+1976/77,CW,Qualifying Round,Cardiff City,Wal,Servette FC Genève,Sui,1-0,1-2,2-2,no,no
+1976/77,CW,Round 1,Lierse SK,Bel,Hajduk Split,YUG,1-0,0-3,1-3,no,no
+1976/77,CW,Round 1,MTK Budapest,Hun,Sparta Praha,TCH,3-1,1-1,4-2,no,no
+1976/77,CW,Round 1,AIK Stockholm,Swe,Galatasaray,Tur,1-2,1-1,2-3,no,no
+1976/77,CW,Round 1,Anderlecht,Bel,Roda JC Kerkrade,Ned,2-1,3-2,5-3,no,no
+1976/77,CW,Round 1,Bodø/Glimt,Nor,Napoli,Ita,0-2,0-1,0-3,no,no
+1976/77,CW,Round 1,Bohemians Dublin,Irl,Esbjerg fB,Den,2-1,1-0,3-1,no,no
+1976/77,CW,Round 1,Cardiff City,Wal,Dinamo Tbilisi,URS,1-0,0-3,1-3,no,no
+1976/77,CW,Round 1,Carrick Rangers,Nir,Aris Bonnevoie,Lux,3-1,1-2,4-3,no,no
+1976/77,CW,Round 1,Hamburger SV,Ger,Keflavik,Isl,3-0,1-1,4-1,no,no
+1976/77,CW,Round 1,Iraklis Thessaloniki,Gre,APOEL Nicosia,Cyp,0-0,0-2,0-2,no,no
+1976/77,CW,Round 1,Lokomotive Leipzig,GDR,Hearts FC,Sco,2-0,1-5,3-5,no,no
+1976/77,CW,Round 1,Southampton FC,Eng,Olympique Marseille,Fra,4-0,1-2,5-2,no,no
+1976/77,CW,Round 1,Levski-Spartak Sofia,Bul,Reipas Lahti,Fin,12-2,7-1,19-3,no,no
+1976/77,CW,Round 1,Floriana,Mlt,Slask Wroclaw,Pol,1-4,0-2,1-6,no,no
+1976/77,CW,Round 1,Rapid Wien,Aut,Atlético Madrid,Esp,1-2,1-1,2-3,no,no
+1976/77,CW,Round 1,CSU Galati,Rom,Boavista,Por,2-3,0-2,2-5,no,no
+1976/77,CW,Round 2,Anderlecht,Bel,Galatasaray,Tur,5-1,5-1,10-2,no,no
+1976/77,CW,Round 2,APOEL Nicosia,Cyp,Napoli,Ita,1-1,0-2,1-3,no,no
+1976/77,CW,Round 2,Atlético Madrid,Esp,Hajduk Split,YUG,1-0,2-1,3-1,no,no
+1976/77,CW,Round 2,Boavista,Por,Levski-Spartak Sofia,Bul,3-1,0-2,3-3,no,no
+1976/77,CW,Round 2,Carrick Rangers,Nir,Southampton FC,Eng,2-5,1-4,3-9,no,no
+1976/77,CW,Round 2,Hamburger SV,Ger,Hearts FC,Sco,4-2,4-1,8-3,no,no
+1976/77,CW,Round 2,Dinamo Tbilisi,URS,MTK Budapest,Hun,1-4,0-1,1-5,no,no
+1976/77,CW,Round 2,Slask Wroclaw,Pol,Bohemians Dublin,Irl,3-0,1-0,4-0,no,no
+1976/77,CW,Quarter Finals,Anderlecht,Bel,Southampton FC,Eng,2-0,1-2,3-2,no,no
+1976/77,CW,Quarter Finals,Levski-Spartak Sofia,Bul,Atlético Madrid,Esp,2-1,0-2,2-3,no,no
+1976/77,CW,Quarter Finals,MTK Budapest,Hun,Hamburger SV,Ger,1-1,1-4,2-5,no,no
+1976/77,CW,Quarter Finals,Slask Wroclaw,Pol,Napoli,Ita,0-0,0-2,0-2,no,no
+1976/77,CW,Semi Finals,Napoli,Ita,Anderlecht,Bel,1-0,0-2,1-2,no,no
+1976/77,CW,Semi Finals,Atlético Madrid,Esp,Hamburger SV,Ger,3-1,0-3,3-4,no,no
+1976/77,CW,Final,Hamburger SV,Ger,Anderlecht,Bel,2-0,,2-0,no,no
+1976/77,EL,Round 1,FC Porto,Por,Schalke 04,Ger,2-2,2-3,4-5,no,no
+1976/77,EL,Round 1,Fram Reykjavik,Isl,Slovan Bratislava,TCH,0-3,0-5,0-8,no,no
+1976/77,EL,Round 1,Glentoran,Nir,FC Basel,Sui,3-2,0-3,3-5,no,no
+1976/77,EL,Round 1,Enosis Paralimni,Cyp,1.FC Kaiserslautern,Ger,1-3,0-8,1-11,no,no
+1976/77,EL,Round 1,AEK Athens,Gre,Dinamo Moscow,URS,2-0,1-2,3-2,no,no
+1976/77,EL,Round 1,Ajax,Ned,Manchester United,Eng,1-0,0-2,1-2,no,no
+1976/77,EL,Round 1,Austria Salzburg,Aut,Adanaspor,Tur,5-0,0-2,5-2,no,no
+1976/77,EL,Round 1,CF Os Belenenses,Por,FC Barcelona,Esp,2-2,2-3,4-5,no,no
+1976/77,EL,Round 1,Celtic,Sco,Wisla Kraków,Pol,2-2,0-2,2-4,no,no
+1976/77,EL,Round 1,Derby County,Eng,Finn Harps,Irl,12-0,4-1,16-1,no,no
+1976/77,EL,Round 1,Dinamo Bucuresti,Rom,AC Milan,Ita,0-0,1-2,1-2,no,no
+1976/77,EL,Round 1,Eintracht Braunschweig,Ger,Holbæk B&IF,Den,7-0,0-1,7-1,no,no
+1976/77,EL,Round 1,Espanyol,Esp,OGC Nice,Fra,3-1,1-2,4-3,no,no
+1976/77,EL,Round 1,Feyenoord,Ned,Djurgårdens IF,Swe,3-0,1-2,4-2,no,no
+1976/77,EL,Round 1,Fenerbahçe,Tur,Videoton Fehérvár,Hun,2-1,0-4,2-5,no,no
+1976/77,EL,Round 1,Grasshoppers Zürich,Sui,Hibernians FC,Mlt,7-0,2-0,9-0,no,no
+1976/77,EL,Round 1,Hibernian,Sco,FC Sochaux-Montbéliard,Fra,1-0,0-0,1-0,no,no
+1976/77,EL,Round 1,Internazionale,Ita,Honvéd Budapest,Hun,0-1,1-1,1-2,no,no
+1976/77,EL,Round 1,1.FC Köln,Ger,GKS Tychy,Pol,2-0,1-1,3-1,no,no
+1976/77,EL,Round 1,KuPS Kuopio,Fin,Östers IF,Swe,3-2,0-2,3-4,no,no
+1976/77,EL,Round 1,1.FC Magdeburg,GDR,AC Cesena,Ita,3-0,1-3,4-3,no,no
+1976/77,EL,Round 1,Manchester City,Eng,Juventus,Ita,1-0,0-2,1-2,no,no
+1976/77,EL,Round 1,Næstved IF,Den,RWD Molenbeek,Bel,0-3,0-4,0-7,no,no
+1976/77,EL,Round 1,Queens Park Rangers,Eng,SK Brann Bergen,Nor,4-0,7-0,11-0,no,no
+1976/77,EL,Round 1,Red Boys Differdange,Lux,KSC Lokeren,Bel,0-3,1-3,1-6,no,no
+1976/77,EL,Round 1,Slavia Praha,TCH,Akademik Sofia,Bul,2-0,0-3,2-3,no,no
+1976/77,EL,Round 1,Shakhtar Donetsk,URS,BFC Dynamo Berlin,GDR,3-0,1-1,4-1,no,no
+1976/77,EL,Round 1,Sportul Studentesc,Rom,Olympiakos Piraeus,Gre,3-0,1-2,4-2,no,no
+1976/77,EL,Round 1,Wacker Innsbruck,Aut,Start Kristiansand,Nor,2-1,5-0,7-1,no,no
+1976/77,EL,Round 1,ASA Tirgu Mures,Rom,Dinamo Zagreb,YUG,0-1,0-3,0-4,no,no
+1976/77,EL,Round 1,Újpest Dózsa,Hun,Athletic Bilbao,Esp,1-0,0-5,1-5,no,no
+1976/77,EL,Round 1,Lokomotiv Plovdiv,Bul,Red Star Belgrade,YUG,2-1,1-4,3-5,no,no
+1976/77,EL,Round 2,AEK Athens,Gre,Derby County,Eng,2-0,3-2,5-2,no,no
+1976/77,EL,Round 2,Akademik Sofia,Bul,AC Milan,Ita,4-3,0-2,4-5,no,no
+1976/77,EL,Round 2,Austria Salzburg,Aut,Red Star Belgrade,YUG,2-1,0-1,2-2,no,no
+1976/77,EL,Round 2,FC Barcelona,Esp,KSC Lokeren,Bel,2-0,1-2,3-2,no,no
+1976/77,EL,Round 2,FC Basel,Sui,Athletic Bilbao,Esp,1-1,1-3,2-4,no,no
+1976/77,EL,Round 2,Eintracht Braunschweig,Ger,Espanyol,Esp,2-1,0-2,2-3,no,no
+1976/77,EL,Round 2,Hibernian,Sco,Östers IF,Swe,2-0,1-4,3-4,no,no
+1976/77,EL,Round 2,Wacker Innsbruck,Aut,Videoton Fehérvár,Hun,1-1,0-1,1-2,no,no
+1976/77,EL,Round 2,1.FC Kaiserslautern,Ger,Feyenoord,Ned,2-2,0-5,2-7,no,no
+1976/77,EL,Round 2,1.FC Köln,Ger,Grasshoppers Zürich,Sui,2-0,3-2,5-2,no,no
+1976/77,EL,Round 2,1.FC Magdeburg,GDR,Dinamo Zagreb,YUG,2-0,2-2,4-2,no,no
+1976/77,EL,Round 2,Manchester United,Eng,Juventus,Ita,1-0,0-3,1-3,no,no
+1976/77,EL,Round 2,Shakhtar Donetsk,URS,Honvéd Budapest,Hun,3-0,3-2,6-2,no,no
+1976/77,EL,Round 2,Slovan Bratislava,TCH,Queens Park Rangers,Eng,3-3,2-5,5-8,no,no
+1976/77,EL,Round 2,Sportul Studentesc,Rom,Schalke 04,Ger,0-1,0-4,0-5,no,no
+1976/77,EL,Round 2,Wisla Kraków,Pol,RWD Molenbeek,Bel,1-1,1-1,2-2,no,no
+1976/77,EL,Round 3,AEK Athens,Gre,Red Star Belgrade,YUG,2-0,1-3,3-3,no,no
+1976/77,EL,Round 3,Athletic Bilbao,Esp,AC Milan,Ita,4-1,1-3,5-4,no,no
+1976/77,EL,Round 3,Espanyol,Esp,Feyenoord,Ned,0-1,0-2,0-3,no,no
+1976/77,EL,Round 3,Juventus,Ita,Shakhtar Donetsk,URS,3-0,0-1,3-1,no,no
+1976/77,EL,Round 3,1.FC Magdeburg,GDR,Videoton Fehérvár,Hun,5-0,0-1,5-1,no,no
+1976/77,EL,Round 3,Östers IF,Swe,FC Barcelona,Esp,0-3,1-5,1-8,no,no
+1976/77,EL,Round 3,Queens Park Rangers,Eng,1.FC Köln,Ger,3-0,1-4,4-4,no,no
+1976/77,EL,Round 3,RWD Molenbeek,Bel,Schalke 04,Ger,1-0,1-1,2-1,no,no
+1976/77,EL,Quarter Finals,Athletic Bilbao,Esp,FC Barcelona,Esp,2-1,2-2,4-3,no,no
+1976/77,EL,Quarter Finals,Feyenoord,Ned,RWD Molenbeek,Bel,0-0,1-2,1-2,no,no
+1976/77,EL,Quarter Finals,1.FC Magdeburg,GDR,Juventus,Ita,1-3,0-1,1-4,no,no
+1976/77,EL,Quarter Finals,Queens Park Rangers,Eng,AEK Athens,Gre,3-0,0-3,3-3,no,no
+1976/77,EL,Semi Finals,RWD Molenbeek,Bel,Athletic Bilbao,Esp,1-1,0-0,1-1,no,no
+1976/77,EL,Semi Finals,Juventus,Ita,AEK Athens,Gre,4-1,1-0,5-1,no,no
+1976/77,EL,Final,Juventus,Ita,Athletic Bilbao,Esp,1-0,1-2,2-2,no,no
+1977/78,CL,Round 1,FC Basel,Sui,Wacker Innsbruck,Aut,1-3,1-0,2-3,no,no
+1977/78,CL,Round 1,Celtic,Sco,Jeunesse d'Esch,Lux,5-0,6-1,11-1,no,no
+1977/78,CL,Round 1,Benfica,Por,Torpedo Moscow,URS,0-0,0-0,0-0,no,no
+1977/78,CL,Round 1,Dynamo Dresden,GDR,Halmstads BK,Swe,2-0,1-2,3-2,no,no
+1977/78,CL,Round 1,Dukla Praha,TCH,FC Nantes,Fra,1-1,0-0,1-1,no,no
+1977/78,CL,Round 1,Floriana,Mlt,Panathinaikos,Gre,1-1,0-4,1-5,no,no
+1977/78,CL,Round 1,KuPS Kuopio,Fin,Club Brugge,Bel,0-4,2-5,2-9,no,no
+1977/78,CL,Round 1,Levski-Spartak Sofia,Bul,Slask Wroclaw,Pol,3-0,2-2,5-2,no,no
+1977/78,CL,Round 1,Lillestrøm SK,Nor,Ajax,Ned,2-0,0-4,2-4,no,no
+1977/78,CL,Round 1,Omonia Nicosia,Cyp,Juventus,Ita,0-3,0-2,0-5,no,no
+1977/78,CL,Round 1,Red Star Belgrade,YUG,Sligo Rovers,Irl,3-0,3-0,6-0,no,no
+1977/78,CL,Round 1,Trabzonspor,Tur,B1903 København,Den,1-0,0-2,1-2,no,no
+1977/78,CL,Round 1,Vasas Budapest,Hun,Borussia Mönchengladbach,Ger,0-3,1-1,1-4,no,no
+1977/78,CL,Round 1,Valur Reykjavik,Isl,Glentoran,Nir,1-0,0-2,1-2,no,no
+1977/78,CL,Round 1,Dinamo Bucuresti,Rom,Atlético Madrid,Esp,2-1,0-2,2-3,no,no
+1977/78,CL,Round 2,Benfica,Por,B1903 København,Den,1-0,1-0,2-0,no,no
+1977/78,CL,Round 2,Club Brugge,Bel,Panathinaikos,Gre,2-0,0-1,2-1,no,no
+1977/78,CL,Round 2,Celtic,Sco,Wacker Innsbruck,Aut,2-1,0-3,2-4,no,no
+1977/78,CL,Round 2,Glentoran,Nir,Juventus,Ita,0-1,0-5,0-6,no,no
+1977/78,CL,Round 2,Levski-Spartak Sofia,Bul,Ajax,Ned,1-2,1-2,2-4,no,no
+1977/78,CL,Round 2,Liverpool,Eng,Dynamo Dresden,GDR,5-1,1-2,6-3,no,no
+1977/78,CL,Round 2,FC Nantes,Fra,Atlético Madrid,Esp,1-1,1-2,2-3,no,no
+1977/78,CL,Round 2,Red Star Belgrade,YUG,Borussia Mönchengladbach,Ger,0-3,1-5,1-8,no,no
+1977/78,CL,Quarter Finals,Benfica,Por,Liverpool,Eng,1-2,1-4,2-6,no,no
+1977/78,CL,Quarter Finals,Ajax,Ned,Juventus,Ita,1-1,1-1,2-2,no,no
+1977/78,CL,Quarter Finals,Club Brugge,Bel,Atlético Madrid,Esp,2-0,2-3,4-3,no,no
+1977/78,CL,Quarter Finals,Wacker Innsbruck,Aut,Borussia Mönchengladbach,Ger,3-1,0-2,3-3,no,no
+1977/78,CL,Semi Finals,Borussia Mönchengladbach,Ger,Liverpool,Eng,2-1,0-3,2-4,no,no
+1977/78,CL,Semi Finals,Juventus,Ita,Club Brugge,Bel,1-0,0-2,1-2,no,no
+1977/78,CL,Final,Liverpool,Eng,Club Brugge,Bel,1-0,,1-0,no,no
+1977/78,CW,Qualifying Round,Glasgow Rangers,Sco,Young Boys,Sui,1-0,2-2,3-2,no,no
+1977/78,CW,Round 1,Lokomotiv Sofia,Bul,Anderlecht,Bel,1-6,0-2,1-8,no,no
+1977/78,CW,Round 1,Besiktas,Tur,Diósgyöri Miskolc,Hun,2-0,0-5,2-5,no,no
+1977/78,CW,Round 1,Real Betis,Esp,AC Milan,Ita,2-0,1-2,3-2,no,no
+1977/78,CW,Round 1,SK Brann Bergen,Nor,IA Akranes,Isl,1-0,4-0,5-0,no,no
+1977/78,CW,Round 1,Cardiff City,Wal,Austria Wien,Aut,0-0,0-1,0-1,no,no
+1977/78,CW,Round 1,Coleraine,Nir,Lokomotive Leipzig,GDR,1-4,2-2,3-6,no,no
+1977/78,CW,Round 1,Dundalk,Irl,Hajduk Split,YUG,1-0,0-4,1-4,no,no
+1977/78,CW,Round 1,Hamburger SV,Ger,Reipas Lahti,Fin,8-1,5-2,13-3,no,no
+1977/78,CW,Round 1,1.FC Köln,Ger,FC Porto,Por,2-2,0-1,2-3,no,no
+1977/78,CW,Round 1,Lokomotiva Kosice,TCH,Östers IF,Swe,0-0,2-2,2-2,no,no
+1977/78,CW,Round 1,PAOK Thessaloniki,Gre,Zaglebie Sosnowiec,Pol,2-0,2-0,4-0,no,no
+1977/78,CW,Round 1,Progrès Niederkorn,Lux,Vejle BK,Den,0-1,0-9,0-10,no,no
+1977/78,CW,Round 1,Glasgow Rangers,Sco,FC Twente Enschede,Ned,0-0,0-3,0-3,no,no
+1977/78,CW,Round 1,AS Saint-Étienne,Fra,Manchester United,Eng,1-1,0-2,1-3,no,no
+1977/78,CW,Round 1,Olympiakos Nicosia,Cyp,Universitatea Craiova,Rom,1-6,0-2,1-8,no,no
+1977/78,CW,Round 1,Valletta FC,Mlt,Dinamo Moscow,URS,0-2,0-5,0-7,no,no
+1977/78,CW,Round 2,Austria Wien,Aut,Lokomotiva Kosice,TCH,0-0,1-1,1-1,no,no
+1977/78,CW,Round 2,Diósgyöri Miskolc,Hun,Hajduk Split,YUG,2-1,1-2,3-3,no,no
+1977/78,CW,Round 2,Hamburger SV,Ger,Anderlecht,Bel,1-2,1-1,2-3,no,no
+1977/78,CW,Round 2,Lokomotive Leipzig,GDR,Real Betis,Esp,1-1,1-2,2-3,no,no
+1977/78,CW,Round 2,Dinamo Moscow,URS,Universitatea Craiova,Rom,2-0,0-2,2-2,no,no
+1977/78,CW,Round 2,FC Twente Enschede,Ned,SK Brann Bergen,Nor,2-0,2-1,4-1,no,no
+1977/78,CW,Round 2,Vejle BK,Den,PAOK Thessaloniki,Gre,3-0,1-2,4-2,no,no
+1977/78,CW,Round 2,FC Porto,Por,Manchester United,Eng,4-0,2-5,6-5,no,no
+1977/78,CW,Quarter Finals,Vejle BK,Den,FC Twente Enschede,Ned,0-3,0-4,0-7,no,no
+1977/78,CW,Quarter Finals,Austria Wien,Aut,Hajduk Split,YUG,1-1,1-1,2-2,no,no
+1977/78,CW,Quarter Finals,Real Betis,Esp,Dinamo Moscow,URS,0-0,0-3,0-3,no,no
+1977/78,CW,Quarter Finals,FC Porto,Por,Anderlecht,Bel,1-0,0-3,1-3,no,no
+1977/78,CW,Semi Finals,Dinamo Moscow,URS,Austria Wien,Aut,2-1,1-2,3-3,no,no
+1977/78,CW,Semi Finals,FC Twente Enschede,Ned,Anderlecht,Bel,0-1,0-2,0-3,no,no
+1977/78,CW,Final,Anderlecht,Bel,Austria Wien,Aut,4-0,,4-0,no,no
+1977/78,EL,Round 1,Eintracht Frankfurt,Ger,Sliema Wanderers,Mlt,5-0,0-0,5-0,no,no
+1977/78,EL,Round 1,AZ Alkmaar,Ned,Red Boys Differdange,Lux,11-1,5-0,16-1,no,no
+1977/78,EL,Round 1,Aston Villa,Eng,Fenerbahçe,Tur,4-0,2-0,6-0,no,no
+1977/78,EL,Round 1,FC Barcelona,Esp,Steaua Bucuresti,Rom,5-1,3-1,8-2,no,no
+1977/78,EL,Round 1,SC Bastia,Fra,Sporting CP Lisbon,Por,3-2,2-1,5-3,no,no
+1977/78,EL,Round 1,Bayern München,Ger,Mjøndalen IF,Nor,8-0,4-0,12-0,no,no
+1977/78,EL,Round 1,Boavista,Por,Lazio,Ita,1-0,0-5,1-5,no,no
+1977/78,EL,Round 1,Bohemians Dublin,Irl,Newcastle United,Eng,0-0,0-4,0-4,no,no
+1977/78,EL,Round 1,Carl Zeiss Jena,GDR,Altay Izmir,Tur,5-1,1-4,6-5,no,no
+1977/78,EL,Round 1,Dundee United,Sco,KB København,Den,1-0,0-3,1-3,no,no
+1977/78,EL,Round 1,Fiorentina,Ita,Schalke 04,Ger,0-3,1-2,1-5,no,no
+1977/78,EL,Round 1,Frem Kobenhavn,Den,Grasshoppers Zürich,Sui,0-2,1-6,1-8,no,no
+1977/78,EL,Round 1,Glenavon,Nir,PSV Eindhoven,Ned,2-6,0-5,2-11,no,no
+1977/78,EL,Round 1,Górnik Zabrze,Pol,Haka Valkeakoski,Fin,5-3,0-0,5-3,no,no
+1977/78,EL,Round 1,Internazionale,Ita,Dinamo Tbilisi,URS,0-1,0-0,0-1,no,no
+1977/78,EL,Round 1,Dinamo Kiev,URS,Eintracht Braunschweig,Ger,1-1,0-0,1-1,no,no
+1977/78,EL,Round 1,Landskrona BoIS,Swe,Ipswich Town,Eng,0-1,0-5,0-6,no,no
+1977/78,EL,Round 1,UD Las Palmas,Esp,Sloboda Tuzla,YUG,5-0,3-4,8-4,no,no
+1977/78,EL,Round 1,RC Lens,Fra,Malmö FF,Swe,4-1,0-2,4-3,no,no
+1977/78,EL,Round 1,LASK Linz,Aut,Újpest Dózsa,Hun,3-2,0-7,3-9,no,no
+1977/78,EL,Round 1,Odra Opole,Pol,1.FC Magdeburg,GDR,1-2,1-1,2-3,no,no
+1977/78,EL,Round 1,Olympiakos Piraeus,Gre,Dinamo Zagreb,YUG,3-1,1-5,4-6,no,no
+1977/78,EL,Round 1,Manchester City,Eng,Widzew Lódz,Pol,2-2,0-0,2-2,no,no
+1977/78,EL,Round 1,Marek Stanke Dimitrov,Bul,Ferencváros,Hun,3-0,0-2,3-2,no,no
+1977/78,EL,Round 1,Rapid Wien,Aut,TJ Internacional,TCH,1-0,0-3,1-3,no,no
+1977/78,EL,Round 1,RWD Molenbeek,Bel,Aberdeen,Sco,0-0,2-1,2-1,no,no
+1977/78,EL,Round 1,Servette FC Genève,Sui,Athletic Bilbao,Esp,1-0,0-2,1-2,no,no
+1977/78,EL,Round 1,Standard Liège,Bel,Slavia Praha,TCH,1-0,2-3,3-3,no,no
+1977/78,EL,Round 1,Start Kristiansand,Nor,Fram Reykjavik,Isl,6-0,2-0,8-0,no,no
+1977/78,EL,Round 1,ASA Tirgu Mures,Rom,AEK Athens,Gre,1-0,0-3,1-3,no,no
+1977/78,EL,Round 1,Torino,Ita,APOEL Nicosia,Cyp,3-0,1-1,4-1,no,no
+1977/78,EL,Round 1,FC Zürich,Sui,CSKA Sofia,Bul,1-0,1-1,2-1,no,no
+1977/78,EL,Round 2,AEK Athens,Gre,Standard Liège,Bel,2-2,1-4,3-6,no,no
+1977/78,EL,Round 2,AZ Alkmaar,Ned,FC Barcelona,Esp,1-1,1-1,2-2,no,no
+1977/78,EL,Round 2,Aston Villa,Eng,Górnik Zabrze,Pol,2-0,1-1,3-1,no,no
+1977/78,EL,Round 2,SC Bastia,Fra,Newcastle United,Eng,2-1,3-1,5-2,no,no
+1977/78,EL,Round 2,Bayern München,Ger,Marek Stanke Dimitrov,Bul,3-0,0-2,3-2,no,no
+1977/78,EL,Round 2,TJ Internacional,TCH,Grasshoppers Zürich,Sui,1-0,1-5,2-5,no,no
+1977/78,EL,Round 2,Ipswich Town,Eng,UD Las Palmas,Esp,1-0,3-3,4-3,no,no
+1977/78,EL,Round 2,KB København,Den,Dinamo Tbilisi,URS,1-4,1-2,2-6,no,no
+1977/78,EL,Round 2,Lazio,Ita,RC Lens,Fra,2-0,0-6,2-6,no,no
+1977/78,EL,Round 2,1.FC Magdeburg,GDR,Schalke 04,Ger,4-2,3-1,7-3,no,no
+1977/78,EL,Round 2,RWD Molenbeek,Bel,Carl Zeiss Jena,GDR,1-1,1-1,2-2,no,no
+1977/78,EL,Round 2,Start Kristiansand,Nor,Eintracht Braunschweig,Ger,1-0,0-4,1-4,no,no
+1977/78,EL,Round 2,Torino,Ita,Dinamo Zagreb,YUG,3-1,0-1,3-2,no,no
+1977/78,EL,Round 2,Újpest Dózsa,Hun,Athletic Bilbao,Esp,2-0,0-3,2-3,no,no
+1977/78,EL,Round 2,Widzew Lódz,Pol,PSV Eindhoven,Ned,3-5,0-1,3-6,no,no
+1977/78,EL,Round 2,FC Zürich,Sui,Eintracht Frankfurt,Ger,0-3,3-4,3-7,no,no
+1977/78,EL,Round 3,Aston Villa,Eng,Athletic Bilbao,Esp,2-0,1-1,3-1,no,no
+1977/78,EL,Round 3,SC Bastia,Fra,Torino,Ita,2-1,3-2,5-3,no,no
+1977/78,EL,Round 3,Carl Zeiss Jena,GDR,Standard Liège,Bel,2-0,2-1,4-1,no,no
+1977/78,EL,Round 3,Eintracht Frankfurt,Ger,Bayern München,Ger,4-0,2-1,6-1,no,no
+1977/78,EL,Round 3,Ipswich Town,Eng,FC Barcelona,Esp,3-0,0-3,3-3,no,no
+1977/78,EL,Round 3,1.FC Magdeburg,GDR,RC Lens,Fra,4-0,0-2,4-2,no,no
+1977/78,EL,Round 3,PSV Eindhoven,Ned,Eintracht Braunschweig,Ger,2-0,2-1,4-1,no,no
+1977/78,EL,Round 3,Dinamo Tbilisi,URS,Grasshoppers Zürich,Sui,1-0,0-4,1-4,no,no
+1977/78,EL,Quarter Finals,Aston Villa,Eng,FC Barcelona,Esp,2-2,1-2,3-4,no,no
+1977/78,EL,Quarter Finals,SC Bastia,Fra,Carl Zeiss Jena,GDR,7-2,2-4,9-6,no,no
+1977/78,EL,Quarter Finals,1.FC Magdeburg,GDR,PSV Eindhoven,Ned,1-0,2-4,3-4,no,no
+1977/78,EL,Quarter Finals,Eintracht Frankfurt,Ger,Grasshoppers Zürich,Sui,3-2,0-1,3-3,no,no
+1977/78,EL,Semi Finals,Grasshoppers Zürich,Sui,SC Bastia,Fra,3-2,0-1,3-3,no,no
+1977/78,EL,Semi Finals,PSV Eindhoven,Ned,FC Barcelona,Esp,3-0,1-3,4-3,no,no
+1977/78,EL,Final,SC Bastia,Fra,PSV Eindhoven,Ned,0-0,0-3,0-3,no,no
 1978/79,CL,Qualifying Round,AS Monaco,Fra,Steaua Bucuresti,Rom,3-0,0-2,3-2,no,no
 1978/79,CL,Round 1,Nottingham Forest,Eng,Liverpool,Eng,2-0,0-0,2-0,no,no
 1978/79,CL,Round 1,Juventus,Ita,Glasgow Rangers,Sco,1-0,0-2,1-2,no,no
@@ -12286,14 +12662,14 @@ season,competition,round,team_a,country_a,team_b,country_b,score_leg1,score_leg2
 2025/26,CL,Knockout round play-offs,Club Brugge,Bel,Atlético Madrid,Esp,3-3,1-4,4-7,no,no
 2025/26,CL,Knockout round play-offs,Bodø/Glimt,Nor,Internazionale,Ita,3-1,2-1,5-2,no,no
 2025/26,CL,Knockout round play-offs,Olympiakos Piraeus,Gre,Bayer Leverkusen,Ger,0-2,0-0,0-2,no,no
-2025/26,CL,Round of 16,Paris Saint-Germain,Fra,Chelsea,Eng,5-2,,5-2,no,no
+2025/26,CL,Round of 16,Paris Saint-Germain,Fra,Chelsea,Eng,5-2,3-0,8-2,no,no
 2025/26,CL,Round of 16,Galatasaray,Tur,Liverpool,Eng,1-0,,1-0,no,no
-2025/26,CL,Round of 16,Real Madrid,Esp,Manchester City,Eng,3-0,,3-0,no,no
+2025/26,CL,Round of 16,Real Madrid,Esp,Manchester City,Eng,3-0,2-1,5-1,no,no
 2025/26,CL,Round of 16,Atalanta,Ita,Bayern München,Ger,1-6,,1-6,no,no
 2025/26,CL,Round of 16,Newcastle United,Eng,FC Barcelona,Esp,1-1,,1-1,no,no
 2025/26,CL,Round of 16,Atlético Madrid,Esp,Tottenham Hotspur,Eng,5-2,,5-2,no,no
-2025/26,CL,Round of 16,Bodø/Glimt,Nor,Sporting CP Lisbon,Por,3-0,,3-0,no,no
-2025/26,CL,Round of 16,Bayer Leverkusen,Ger,Arsenal,Eng,1-1,,1-1,no,no
+2025/26,CL,Round of 16,Bodø/Glimt,Nor,Sporting CP Lisbon,Por,3-0,0-5,3-5,no,no
+2025/26,CL,Round of 16,Bayer Leverkusen,Ger,Arsenal,Eng,1-1,0-2,1-3,no,no
 2025/26,EL,1st Qualifying Round,Shakhtar Donetsk,Ukr,Ilves Tampere,Fin,6-0,0-0,6-0,no,no
 2025/26,EL,1st Qualifying Round,Sheriff Tiraspol,Mol,FC Prishtina,Kos,4-0,1-2,5-2,no,no
 2025/26,EL,1st Qualifying Round,Spartak Trnava,Svk,BK Häcken,Swe,0-1,2-2,2-3,no,no
