@@ -1,4 +1,752 @@
 season,competition,round,team_a,country_a,team_b,country_b,score_leg1,score_leg2,score_aggregate,extra_time,penalties
+1969/70,CL,Qualifying Round,TPS Turku,Fin,KB København,Den,0-1,0-4,0-5,no,no
+1969/70,CL,Round 1,Leeds United,Eng,Lyn Oslo,Nor,10-0,6-0,16-0,no,no
+1969/70,CL,Round 1,CSKA Sofia,Bul,Ferencváros,Hun,2-1,1-4,3-5,no,no
+1969/70,CL,Round 1,Standard Liège,Bel,17 Nëntori Tirana,Alb,3-0,1-1,4-1,no,no
+1969/70,CL,Round 1,Real Madrid,Esp,Olympiakos Nicosia,Cyp,8-0,6-1,14-1,no,no
+1969/70,CL,Round 1,FC Basel,Sui,Celtic,Sco,0-0,0-2,0-2,no,no
+1969/70,CL,Round 1,Benfica,Por,KB København,Den,2-0,3-2,5-2,no,no
+1969/70,CL,Round 1,Austria Wien,Aut,Dinamo Kiev,URS,1-2,1-3,2-5,no,no
+1969/70,CL,Round 1,Fiorentina,Ita,Östers IF,Swe,1-0,2-1,3-1,no,no
+1969/70,CL,Round 1,Galatasaray,Tur,Waterford,Irl,2-0,3-2,5-2,no,no
+1969/70,CL,Round 1,Hibernians FC,Mlt,Spartak Trnava,TCH,2-2,0-4,2-6,no,no
+1969/70,CL,Round 1,UT Arad,Rom,Legia Warsaw,Pol,1-2,0-8,1-10,no,no
+1969/70,CL,Round 1,Bayern München,Ger,AS Saint-Étienne,Fra,2-0,0-3,2-3,no,no
+1969/70,CL,Round 1,Vorwärts Berlin,GDR,Panathinaikos,Gre,2-0,1-1,3-1,no,no
+1969/70,CL,Round 1,Red Star Belgrade,YUG,Linfield Belfast,Nir,8-0,4-2,12-2,no,no
+1969/70,CL,Round 1,AC Milan,Ita,Avenir Beggen,Lux,5-0,3-0,8-0,no,no
+1969/70,CL,Round 1,Feyenoord,Ned,KR Reykjavik,Isl,12-2,4-0,16-2,no,no
+1969/70,CL,Round 2,Leeds United,Eng,Ferencváros,Hun,3-0,3-0,6-0,no,no
+1969/70,CL,Round 2,Standard Liège,Bel,Real Madrid,Esp,1-0,3-2,4-2,no,no
+1969/70,CL,Round 2,Celtic,Sco,Benfica,Por,3-0,0-3,3-3,no,no
+1969/70,CL,Celtic progressed on a coin toss,Dinamo Kiev,URS,Fiorentina,Ita,1-2,0-0,1-2,no,no
+1969/70,CL,Celtic progressed on a coin toss,Spartak Trnava,TCH,Galatasaray,Tur,1-0,0-1,1-1,no,no
+1969/70,CL,Galatasaray progressed on a coin toss,Legia Warsaw,Pol,AS Saint-Étienne,Fra,2-1,1-0,3-1,no,no
+1969/70,CL,Galatasaray progressed on a coin toss,Vorwärts Berlin,GDR,Red Star Belgrade,YUG,2-1,2-3,4-4,no,no
+1969/70,CL,Galatasaray progressed on a coin toss,AC Milan,Ita,Feyenoord,Ned,1-0,0-2,1-2,no,no
+1969/70,CL,Quarter Finals,Standard Liège,Bel,Leeds United,Eng,0-1,0-1,0-2,no,no
+1969/70,CL,Quarter Finals,Celtic,Sco,Fiorentina,Ita,3-0,0-1,3-1,no,no
+1969/70,CL,Quarter Finals,Galatasaray,Tur,Legia Warsaw,Pol,1-1,0-2,1-3,no,no
+1969/70,CL,Quarter Finals,Vorwärts Berlin,GDR,Feyenoord,Ned,1-0,0-2,1-2,no,no
+1969/70,CL,Semi Finals,Leeds United,Eng,Celtic,Sco,0-1,1-2,1-3,no,no
+1969/70,CL,Semi Finals,Legia Warsaw,Pol,Feyenoord,Ned,0-0,0-2,0-2,no,no
+1969/70,CL,Final,Feyenoord,Ned,Celtic,Sco,2-1,,2-1,no,no
+1969/70,CW,Qualifying Round,Rapid Wien,Aut,Torpedo Moscow,URS,0-0,1-1,1-1,no,no
+1969/70,CW,Round 1,Olympiakos Piraeus,Gre,Górnik Zabrze,Pol,2-2,0-5,2-7,no,no
+1969/70,CW,Round 1,Glasgow Rangers,Sco,Steaua Bucuresti,Rom,2-0,0-0,2-0,no,no
+1969/70,CW,Round 1,IBV Vestmannaeyjar,Isl,Levski-Spartak Sofia,Bul,0-4,0-4,0-8,no,no
+1969/70,CW,Round 1,Frem Kobenhavn,Den,FC Sankt Gallen,Sui,2-1,0-1,2-2,no,no
+1969/70,CW,Round 1,Ards FC,Nir,AS Roma,Ita,0-0,1-3,1-3,no,no
+1969/70,CW,Round 1,Rapid Wien,Aut,PSV Eindhoven,Ned,1-2,2-4,3-6,no,no
+1969/70,CW,Round 1,Göztepe,Tur,Union Luxembourg,Lux,3-0,3-2,6-2,no,no
+1969/70,CW,Round 1,Mjøndalen IF,Nor,Cardiff City,Wal,1-7,1-5,2-12,no,no
+1969/70,CW,Round 1,Shamrock Rovers,Irl,Schalke 04,Ger,2-1,0-3,2-4,no,no
+1969/70,CW,Round 1,IFK Norrköping,Swe,Sliema Wanderers,Mlt,5-1,0-1,5-2,no,no
+1969/70,CW,Round 1,Dukla Praha,TCH,Olympique Marseille,Fra,1-0,0-2,1-2,no,no
+1969/70,CW,Round 1,Dinamo Zagreb,YUG,Slovan Bratislava,TCH,3-0,0-0,3-0,no,no
+1969/70,CW,Round 1,1.FC Magdeburg,GDR,MTK Budapest,Hun,1-0,1-1,2-1,no,no
+1969/70,CW,Round 1,Académica Coimbra,Por,KuPS Kuopio,Fin,0-0,1-0,1-0,no,no
+1969/70,CW,Round 1,Lierse SK,Bel,APOEL Nicosia,Cyp,10-1,1-0,11-1,no,no
+1969/70,CW,Round 1,Athletic Bilbao,Esp,Manchester City,Eng,3-3,0-3,3-6,no,no
+1969/70,CW,Round 2,Górnik Zabrze,Pol,Glasgow Rangers,Sco,3-1,3-1,6-2,no,no
+1969/70,CW,Round 2,Levski-Spartak Sofia,Bul,FC Sankt Gallen,Sui,4-0,0-0,4-0,no,no
+1969/70,CW,Round 2,AS Roma,Ita,PSV Eindhoven,Ned,1-0,0-1,1-1,no,no
+1969/70,CW,AS Roma progressed on a coin toss,Göztepe,Tur,Cardiff City,Wal,3-0,0-1,3-1,no,no
+1969/70,CW,AS Roma progressed on a coin toss,IFK Norrköping,Swe,Schalke 04,Ger,0-0,0-1,0-1,no,no
+1969/70,CW,AS Roma progressed on a coin toss,Olympique Marseille,Fra,Dinamo Zagreb,YUG,1-1,0-2,1-3,no,no
+1969/70,CW,AS Roma progressed on a coin toss,1.FC Magdeburg,GDR,Académica Coimbra,Por,1-0,0-2,1-2,no,no
+1969/70,CW,AS Roma progressed on a coin toss,Lierse SK,Bel,Manchester City,Eng,0-3,0-5,0-8,no,no
+1969/70,CW,Quarter Finals,Levski-Spartak Sofia,Bul,Górnik Zabrze,Pol,3-2,1-2,4-4,no,no
+1969/70,CW,Quarter Finals,AS Roma,Ita,Göztepe,Tur,2-0,0-0,2-0,no,no
+1969/70,CW,Quarter Finals,Dinamo Zagreb,YUG,Schalke 04,Ger,1-3,0-1,1-4,no,no
+1969/70,CW,Quarter Finals,Académica Coimbra,Por,Manchester City,Eng,0-0,0-1,0-1,no,no
+1969/70,CW,Semi Finals,AS Roma,Ita,Górnik Zabrze,Pol,1-1,2-2,3-3,no,no
+1969/70,CW,Semi Finals,Schalke 04,Ger,Manchester City,Eng,1-0,1-5,2-5,no,no
+1969/70,CW,Final,Manchester City,Eng,Górnik Zabrze,Pol,2-1,,2-1,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Arsenal,Eng,Glentoran,Nir,3-0,0-1,3-1,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Dundee United,Sco,Newcastle United,Eng,1-2,0-1,1-3,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Liverpool,Eng,Dundalk,Irl,10-0,4-0,14-0,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Partizan Belgrade,YUG,Újpest Dózsa,Hun,2-1,0-2,2-3,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,CE Sabadell,Esp,Club Brugge,Bel,2-0,1-5,3-5,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,UD Las Palmas,Esp,Hertha BSC,Ger,0-0,0-1,0-1,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Wiener Sportklub,Aut,Ruch Chorzow,Pol,4-2,1-4,5-6,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,FC Rouen,Fra,FC Twente Enschede,Ned,2-0,0-1,2-1,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Vitória Guimarães,Por,Baník Ostrava,TCH,1-0,1-1,2-1,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Sporting CP Lisbon,Por,LASK Linz,Aut,4-0,2-2,6-2,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Carl Zeiss Jena,GDR,Altay Izmir,Tur,1-0,0-0,1-0,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Lausanne Sports,Sui,ETO Györ,Hun,1-2,1-2,2-4,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Rosenborg BK,Nor,Southampton FC,Eng,1-0,0-2,1-2,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Hansa Rostock,GDR,Panionios,Gre,3-0,0-2,3-2,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Dinamo Bacau,Rom,Floriana,Mlt,6-0,1-0,7-0,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Slavia Sofia,Bul,Valencia,Esp,2-0,1-1,3-1,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Internazionale,Ita,Sparta Praha,TCH,3-0,1-0,4-0,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Juventus,Ita,Lokomotiv Plovdiv,Bul,3-1,2-1,5-2,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,VfB Stuttgart,Ger,Malmö FF,Swe,3-0,1-1,4-1,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Hannover 96,Ger,Ajax,Ned,2-1,0-3,2-4,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Aris Thessaloniki,Gre,Cagliari,Ita,1-1,0-3,1-4,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,FC Metz,Fra,Napoli,Ita,1-1,1-2,2-3,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,FC Barcelona,Esp,B1913 Odense,Den,4-0,2-0,6-0,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Vojvodina Novi Sad,YUG,Gwardia Warsaw,Pol,0-1,1-1,1-2,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Dunfermline Athletic,Sco,Girondins Bordeaux,Fra,4-0,0-2,4-2,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,FC Zürich,Sui,Kilmarnock,Sco,3-2,1-3,4-5,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,TSV 1860 München,Ger,Skeid Oslo,Nor,2-2,1-2,3-4,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Valur Reykjavik,Isl,Anderlecht,Bel,0-6,0-2,0-8,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Charleroi,Bel,NK Zagreb,YUG,2-1,3-1,5-2,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Hvidovre IF,Den,FC Porto,Por,1-2,0-2,1-4,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Jeunesse d'Esch,Lux,Coleraine,Nir,3-2,0-4,3-6,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 1,Vitória Setúbal,Por,Rapid Bucuresti,Rom,3-1,4-1,7-2,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 2,Sporting CP Lisbon,Por,Arsenal,Eng,0-0,0-3,0-3,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 2,Charleroi,Bel,FC Rouen,Fra,3-1,0-2,3-3,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 2,Skeid Oslo,Nor,Dinamo Bacau,Rom,0-0,0-2,0-2,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 2,Kilmarnock,Sco,Slavia Sofia,Bul,4-1,0-2,4-3,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 2,Ajax,Ned,Ruch Chorzow,Pol,7-0,2-1,9-1,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 2,VfB Stuttgart,Ger,Napoli,Ita,0-0,0-1,0-1,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 2,Carl Zeiss Jena,GDR,Cagliari,Ita,2-0,1-0,3-0,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 2,Club Brugge,Bel,Újpest Dózsa,Hun,5-2,0-3,5-5,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 2,Hansa Rostock,GDR,Internazionale,Ita,2-1,0-3,2-4,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 2,ETO Györ,Hun,FC Barcelona,Esp,2-3,0-2,2-5,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 2,Hertha BSC,Ger,Juventus,Ita,3-1,0-0,3-1,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 2,Vitória Setúbal,Por,Liverpool,Eng,1-0,2-3,3-3,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 2,FC Porto,Por,Newcastle United,Eng,0-0,0-1,0-1,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 2,Vitória Guimarães,Por,Southampton FC,Eng,3-3,1-5,4-8,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 2,Dunfermline Athletic,Sco,Gwardia Warsaw,Pol,2-1,1-0,3-1,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 2,Anderlecht,Bel,Coleraine,Nir,6-1,7-3,13-4,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 3,FC Rouen,Fra,Arsenal,Eng,0-0,0-1,0-1,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 3,Kilmarnock,Sco,Dinamo Bacau,Rom,1-1,0-2,1-3,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 3,Napoli,Ita,Ajax,Ned,1-0,0-4,1-4,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 3,Carl Zeiss Jena,GDR,Újpest Dózsa,Hun,1-0,3-0,4-0,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 3,FC Barcelona,Esp,Internazionale,Ita,1-2,1-1,2-3,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 3,Vitória Setúbal,Por,Hertha BSC,Ger,1-1,0-1,1-2,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 3,Newcastle United,Eng,Southampton FC,Eng,0-0,1-1,1-1,no,no
+1969/70,INTER-CITIES FAIRS CUP,Round 3,Anderlecht,Bel,Dunfermline Athletic,Sco,1-0,2-3,3-3,no,no
+1969/70,INTER-CITIES FAIRS CUP,Quarter Finals,Dinamo Bacau,Rom,Arsenal,Eng,0-2,1-7,1-9,no,no
+1969/70,INTER-CITIES FAIRS CUP,Quarter Finals,Carl Zeiss Jena,GDR,Ajax,Ned,3-1,1-5,4-6,no,no
+1969/70,INTER-CITIES FAIRS CUP,Quarter Finals,Hertha BSC,Ger,Internazionale,Ita,1-0,0-2,1-2,no,no
+1969/70,INTER-CITIES FAIRS CUP,Quarter Finals,Anderlecht,Bel,Newcastle United,Eng,2-0,1-3,3-3,no,no
+1969/70,INTER-CITIES FAIRS CUP,Semi Finals,Arsenal,Eng,Ajax,Ned,3-0,0-1,3-1,no,no
+1969/70,INTER-CITIES FAIRS CUP,Semi Finals,Anderlecht,Bel,Internazionale,Ita,0-1,2-0,2-1,no,no
+1969/70,INTER-CITIES FAIRS CUP,Final,Anderlecht,Bel,Arsenal,Eng,3-1,0-3,3-4,no,no
+1970/71,CL,Qualifying Round,Levski-Spartak Sofia,Bul,Austria Wien,Aut,3-1,0-3,3-4,no,no
+1970/71,CL,Round 1,Jeunesse d'Esch,Lux,Panathinaikos,Gre,1-2,0-5,1-7,no,no
+1970/71,CL,Round 1,Slovan Bratislava,TCH,B1903 København,Den,2-1,2-2,4-3,no,no
+1970/71,CL,Round 1,Everton,Eng,Keflavik,Isl,6-2,3-0,9-2,no,no
+1970/71,CL,Round 1,EPA Larnaca,Cyp,Borussia Mönchengladbach,Ger,0-6,0-10,0-16,no,no
+1970/71,CL,Round 1,Fenerbahçe,Tur,Carl Zeiss Jena,GDR,0-4,0-1,0-5,no,no
+1970/71,CL,Round 1,Sporting CP Lisbon,Por,Floriana,Mlt,5-0,4-0,9-0,no,no
+1970/71,CL,Round 1,Újpest Dózsa,Hun,Red Star Belgrade,YUG,2-0,0-4,2-4,no,no
+1970/71,CL,Round 1,Feyenoord,Ned,UT Arad,Rom,1-1,0-0,1-1,no,no
+1970/71,CL,Round 1,Atlético Madrid,Esp,Austria Wien,Aut,2-0,2-1,4-1,no,no
+1970/71,CL,Round 1,Cagliari,Ita,AS Saint-Étienne,Fra,3-0,0-1,3-1,no,no
+1970/71,CL,Round 1,IFK Göteborg,Swe,Legia Warsaw,Pol,0-4,1-2,1-6,no,no
+1970/71,CL,Round 1,Rosenborg BK,Nor,Standard Liège,Bel,0-2,0-5,0-7,no,no
+1970/71,CL,Round 1,Celtic,Sco,KPV Kokkola,Fin,9-0,5-0,14-0,no,no
+1970/71,CL,Round 1,Glentoran,Nir,Waterford,Irl,1-3,0-1,1-4,no,no
+1970/71,CL,Round 1,Spartak Moscow,URS,FC Basel,Sui,3-2,1-2,4-4,no,no
+1970/71,CL,Round 1,17 Nëntori Tirana,Alb,Ajax,Ned,2-2,0-2,2-4,no,no
+1970/71,CL,Round 2,Panathinaikos,Gre,Slovan Bratislava,TCH,3-0,1-2,4-2,no,no
+1970/71,CL,Round 2,Borussia Mönchengladbach,Ger,Everton,Eng,1-1,1-1,2-2,no,no
+1970/71,CL,Round 2,Carl Zeiss Jena,GDR,Sporting CP Lisbon,Por,2-1,2-1,4-2,no,no
+1970/71,CL,Round 2,Red Star Belgrade,YUG,UT Arad,Rom,3-0,3-1,6-1,no,no
+1970/71,CL,Round 2,Cagliari,Ita,Atlético Madrid,Esp,2-1,0-3,2-4,no,no
+1970/71,CL,Round 2,Standard Liège,Bel,Legia Warsaw,Pol,1-0,0-2,1-2,no,no
+1970/71,CL,Round 2,Waterford,Irl,Celtic,Sco,0-7,2-3,2-10,no,no
+1970/71,CL,Round 2,Ajax,Ned,FC Basel,Sui,3-0,2-1,5-1,no,no
+1970/71,CL,Quarter Finals,Everton,Eng,Panathinaikos,Gre,1-1,0-0,1-1,no,no
+1970/71,CL,Quarter Finals,Carl Zeiss Jena,GDR,Red Star Belgrade,YUG,3-2,0-4,3-6,no,no
+1970/71,CL,Quarter Finals,Atlético Madrid,Esp,Legia Warsaw,Pol,1-0,1-2,2-2,no,no
+1970/71,CL,Quarter Finals,Ajax,Ned,Celtic,Sco,3-0,0-1,3-1,no,no
+1970/71,CL,Semi Finals,Red Star Belgrade,YUG,Panathinaikos,Gre,4-1,0-3,4-4,no,no
+1970/71,CL,Semi Finals,Atlético Madrid,Esp,Ajax,Ned,1-0,0-3,1-3,no,no
+1970/71,CL,Final,Ajax,Ned,Panathinaikos,Gre,2-0,,2-0,no,no
+1970/71,CW,Qualifying Round,Åtvidabergs FF,Swe,Partizani Tirana,Alb,1-1,0-2,1-3,no,no
+1970/71,CW,Qualifying Round,Bohemians Dublin,Irl,TJ Gottwaldov,TCH,1-2,2-2,3-4,no,no
+1970/71,CW,Round 1,Manchester City,Eng,Linfield Belfast,Nir,1-0,1-2,2-2,no,no
+1970/71,CW,Round 1,Olimpija Ljubljana,YUG,Benfica,Por,1-1,1-8,2-9,no,no
+1970/71,CW,Round 1,IBA Akureyri,Isl,FC Zürich,Sui,1-7,0-7,1-14,no,no
+1970/71,CW,Round 1,Cardiff City,Wal,Pezoporikos Larnaca,Cyp,8-0,0-0,8-0,no,no
+1970/71,CW,Round 1,Kickers Offenbach,Ger,Club Brugge,Bel,2-1,0-2,2-3,no,no
+1970/71,CW,Round 1,Hibernians FC,Mlt,Real Madrid,Esp,0-0,0-5,0-5,no,no
+1970/71,CW,Round 1,Vorwärts Berlin,GDR,Bologna,Ita,0-0,1-1,1-1,no,no
+1970/71,CW,Round 1,Karpaty Lvov,URS,Steaua Bucuresti,Rom,0-1,3-3,3-4,no,no
+1970/71,CW,Round 1,CSKA Sofia,Bul,Haka Valkeakoski,Fin,9-0,2-1,11-1,no,no
+1970/71,CW,Round 1,Aberdeen,Sco,Honvéd Budapest,Hun,1-3,3-1,4-4,no,no
+1970/71,CW,Round 1,Strømsgodset IF,Nor,FC Nantes,Fra,0-5,3-2,3-7,no,no
+1970/71,CW,Round 1,AaB Aalborg,Den,Górnik Zabrze,Pol,0-1,1-8,1-9,no,no
+1970/71,CW,Round 1,Göztepe,Tur,Union Luxembourg,Lux,5-0,0-1,5-1,no,no
+1970/71,CW,Round 1,Wacker Innsbruck,Aut,Partizani Tirana,Alb,3-2,2-1,5-3,no,no
+1970/71,CW,Round 1,TJ Gottwaldov,TCH,PSV Eindhoven,Ned,2-1,0-1,2-2,no,no
+1970/71,CW,Round 1,Aris Thessaloniki,Gre,Chelsea,Eng,1-1,1-5,2-6,no,no
+1970/71,CW,Round 2,CSKA Sofia,Bul,Chelsea,Eng,0-1,0-1,0-2,no,no
+1970/71,CW,Round 2,Honvéd Budapest,Hun,Manchester City,Eng,0-1,0-2,0-3,no,no
+1970/71,CW,Round 2,Cardiff City,Wal,FC Nantes,Fra,5-1,2-1,7-2,no,no
+1970/71,CW,Round 2,Club Brugge,Bel,FC Zürich,Sui,2-0,2-3,4-3,no,no
+1970/71,CW,Round 2,PSV Eindhoven,Ned,Steaua Bucuresti,Rom,4-0,3-0,7-0,no,no
+1970/71,CW,Round 2,Göztepe,Tur,Górnik Zabrze,Pol,0-1,0-3,0-4,no,no
+1970/71,CW,Round 2,Real Madrid,Esp,Wacker Innsbruck,Aut,0-1,2-0,2-1,no,no
+1970/71,CW,Round 2,Benfica,Por,Vorwärts Berlin,GDR,2-0,0-2,2-2,no,no
+1970/71,CW,Quarter Finals,Manchester City,Eng,Górnik Zabrze,Pol,2-0,0-2,2-2,no,no
+1970/71,CW,Quarter Finals,PSV Eindhoven,Ned,Vorwärts Berlin,GDR,2-0,0-1,2-1,no,no
+1970/71,CW,Quarter Finals,Cardiff City,Wal,Real Madrid,Esp,1-0,0-2,1-2,no,no
+1970/71,CW,Quarter Finals,Club Brugge,Bel,Chelsea,Eng,2-0,0-4,2-4,no,no
+1970/71,CW,Semi Finals,Chelsea,Eng,Manchester City,Eng,1-0,1-0,2-0,no,no
+1970/71,CW,Semi Finals,PSV Eindhoven,Ned,Real Madrid,Esp,0-0,1-2,1-2,no,no
+1970/71,CW,Final,Chelsea,Eng,Real Madrid,Esp,1-1,,1-1,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,AEK Athens,Gre,FC Twente Enschede,Ned,0-1,0-3,0-4,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Zeljeznicar Sarajevo,YUG,Anderlecht,Bel,3-4,4-5,7-9,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,AA Gent,Bel,Hamburger SV,Ger,0-1,1-7,1-8,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Sevilla,Esp,Eskisehirspor,Tur,1-0,1-3,2-3,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Coleraine,Nir,Kilmarnock,Sco,1-1,3-2,4-3,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Dundee United,Sco,Grasshoppers Zürich,Sui,3-2,0-0,3-2,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Sarpsborg FK,Nor,Leeds United,Eng,0-1,0-5,0-6,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Spartak Trnava,TCH,Olympique Marseille,Fra,2-0,0-2,2-2,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,1.FC Köln,Ger,CS Sedan,Fra,5-1,0-1,5-2,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Lausanne Sports,Sui,Vitória Setúbal,Por,0-2,1-2,1-4,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Hibernian,Sco,Malmö FF,Swe,6-0,3-2,9-2,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Liverpool,Eng,Ferencváros,Hun,1-0,1-1,2-1,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Trakia Plovdiv,Bul,Coventry City,Eng,1-4,0-2,1-6,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Lazio,Ita,Arsenal,Eng,2-2,0-2,2-4,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Bayern München,Ger,Glasgow Rangers,Sco,1-0,1-1,2-1,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Dinamo Bucuresti,Rom,PAOK Thessaloniki,Gre,5-0,0-1,5-1,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Universitatea Craiova,Rom,Pécsi Dózsa,Hun,2-1,0-3,2-4,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,GKS Katowice,Pol,FC Barcelona,Esp,0-1,2-3,2-4,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Wiener Sportklub,Aut,SK Beveren,Bel,0-2,0-3,0-5,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Ilves-Kissat,Fin,Sturm Graz,Aut,4-2,0-3,4-5,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,FC Barreirense,Por,Dinamo Zagreb,YUG,2-0,1-6,3-6,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Hajduk Split,YUG,Slavia Sofia,Bul,3-0,0-1,3-1,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Cork Hibernians,Irl,Valencia,Esp,0-3,1-3,1-6,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Sparta Praha,TCH,Athletic Bilbao,Esp,2-0,1-1,3-1,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Partizan Belgrade,YUG,Dynamo Dresden,GDR,0-0,0-6,0-6,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,AB København,Den,Sliema Wanderers,Mlt,7-0,3-2,10-2,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Juventus,Ita,US Rumelange,Lux,7-0,4-0,11-0,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,B1901 Nykøbing,Den,Hertha BSC,Ger,2-4,1-4,3-8,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Ruch Chorzow,Pol,Fiorentina,Ita,1-1,0-2,1-3,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Internazionale,Ita,Newcastle United,Eng,1-1,0-2,1-3,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Sparta Rotterdam,Ned,IA Akranes,Isl,6-0,9-0,15-0,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 1,Vitória Guimarães,Por,AS Angoulême,Fra,3-0,1-3,4-3,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 2,Hibernian,Sco,Vitória Guimarães,Por,2-0,1-2,3-2,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 2,Sparta Rotterdam,Ned,Coleraine,Nir,2-0,2-1,4-1,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 2,Bayern München,Ger,Coventry City,Eng,6-1,1-2,7-3,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 2,FC Barcelona,Esp,Juventus,Ita,1-2,1-2,2-4,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 2,Fiorentina,Ita,1.FC Köln,Ger,1-2,0-1,1-3,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 2,Sturm Graz,Aut,Arsenal,Eng,1-0,0-2,1-2,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 2,Leeds United,Eng,Dynamo Dresden,GDR,1-0,1-2,2-2,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 2,Liverpool,Eng,Dinamo Bucuresti,Rom,3-0,1-1,4-1,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 2,AB København,Den,Anderlecht,Bel,1-3,0-4,1-7,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 2,Newcastle United,Eng,Pécsi Dózsa,Hun,2-0,0-2,2-2,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 2,Sparta Praha,TCH,Dundee United,Sco,3-1,0-1,3-2,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 2,Hertha BSC,Ger,Spartak Trnava,TCH,1-0,1-3,2-3,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 2,Dinamo Zagreb,YUG,Hamburger SV,Ger,4-0,0-1,4-1,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 2,Vitória Setúbal,Por,Hajduk Split,YUG,2-0,1-2,3-2,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 2,Valencia,Esp,SK Beveren,Bel,0-1,1-1,1-2,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 2,Eskisehirspor,Tur,FC Twente Enschede,Ned,3-2,1-6,4-8,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 3,Spartak Trnava,TCH,1.FC Köln,Ger,0-1,0-3,0-4,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 3,Bayern München,Ger,Sparta Rotterdam,Ned,2-1,3-1,5-2,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 3,Leeds United,Eng,Sparta Praha,TCH,6-0,3-2,9-2,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 3,Arsenal,Eng,SK Beveren,Bel,4-0,0-0,4-0,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 3,Pécsi Dózsa,Hun,Juventus,Ita,0-1,0-2,0-3,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 3,Dinamo Zagreb,YUG,FC Twente Enschede,Ned,2-2,0-1,2-3,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 3,Anderlecht,Bel,Vitória Setúbal,Por,2-1,1-3,3-4,no,no
+1970/71,INTER-CITIES FAIRS CUP,Round 3,Hibernian,Sco,Liverpool,Eng,0-1,0-2,0-3,no,no
+1970/71,INTER-CITIES FAIRS CUP,Quarter Finals,Juventus,Ita,FC Twente Enschede,Ned,2-0,2-2,4-2,no,no
+1970/71,INTER-CITIES FAIRS CUP,Quarter Finals,Arsenal,Eng,1.FC Köln,Ger,2-1,0-1,2-2,no,no
+1970/71,INTER-CITIES FAIRS CUP,Quarter Finals,Leeds United,Eng,Vitória Setúbal,Por,2-1,1-1,3-2,no,no
+1970/71,INTER-CITIES FAIRS CUP,Quarter Finals,Liverpool,Eng,Bayern München,Ger,3-0,1-1,4-1,no,no
+1970/71,INTER-CITIES FAIRS CUP,Semi Finals,Liverpool,Eng,Leeds United,Eng,0-1,0-0,0-1,no,no
+1970/71,INTER-CITIES FAIRS CUP,Semi Finals,1.FC Köln,Ger,Juventus,Ita,1-1,0-2,1-3,no,no
+1970/71,INTER-CITIES FAIRS CUP,Final,Juventus,Ita,Leeds United,Eng,2-2,1-1,3-3,no,no
+1971/72,CL,Qualifying Round,Valencia,Esp,Union Luxembourg,Lux,3-1,1-0,4-1,no,no
+1971/72,CL,Round 1,Galatasaray,Tur,CSKA Moscow,URS,1-1,0-3,1-4,no,no
+1971/72,CL,Round 1,Standard Liège,Bel,Linfield Belfast,Nir,2-0,3-2,5-2,no,no
+1971/72,CL,Round 1,B1903 København,Den,Celtic,Sco,2-1,0-3,2-4,no,no
+1971/72,CL,Round 1,Feyenoord,Ned,Olympiakos Nicosia,Cyp,8-0,9-0,17-0,no,no
+1971/72,CL,Round 1,Internazionale,Ita,AEK Athens,Gre,4-1,2-3,6-4,no,no
+1971/72,CL,Round 1,Újpest Dózsa,Hun,Malmö FF,Swe,4-0,0-1,4-1,no,no
+1971/72,CL,Round 1,Valencia,Esp,Hajduk Split,YUG,0-0,1-1,1-1,no,no
+1971/72,CL,Round 1,Cork Hibernians,Irl,Borussia Mönchengladbach,Ger,0-5,1-2,1-7,no,no
+1971/72,CL,Round 1,Wacker Innsbruck,Aut,Benfica,Por,0-4,1-3,1-7,no,no
+1971/72,CL,Round 1,Ajax,Ned,Dynamo Dresden,GDR,2-0,0-0,2-0,no,no
+1971/72,CL,Round 1,Strømsgodset IF,Nor,Arsenal,Eng,1-3,0-4,1-7,no,no
+1971/72,CL,Round 1,Dinamo Bucuresti,Rom,Spartak Trnava,TCH,0-0,2-2,2-2,no,no
+1971/72,CL,Round 1,Olympique Marseille,Fra,Górnik Zabrze,Pol,2-1,1-1,3-2,no,no
+1971/72,CL,Round 1,CSKA Sofia,Bul,Partizani Tirana,Alb,3-0,1-0,4-0,no,no
+1971/72,CL,Round 1,Reipas Lahti,Fin,Grasshoppers Zürich,Sui,1-1,0-8,1-9,no,no
+1971/72,CL,Round 1,IA Akranes,Isl,Sliema Wanderers,Mlt,0-4,0-0,0-4,no,no
+1971/72,CL,Round 2,CSKA Moscow,URS,Standard Liège,Bel,1-0,0-2,1-2,no,no
+1971/72,CL,Round 2,Dinamo Bucuresti,Rom,Feyenoord,Ned,0-3,0-2,0-5,no,no
+1971/72,CL,Round 2,Valencia,Esp,Újpest Dózsa,Hun,0-1,1-2,1-3,no,no
+1971/72,CL,Round 2,Internazionale,Ita,Borussia Mönchengladbach,Ger,4-2,0-0,4-2,no,no
+1971/72,CL,Round 2,Benfica,Por,CSKA Sofia,Bul,2-1,0-0,2-1,no,no
+1971/72,CL,Round 2,Grasshoppers Zürich,Sui,Arsenal,Eng,0-2,0-3,0-5,no,no
+1971/72,CL,Round 2,Olympique Marseille,Fra,Ajax,Ned,1-2,1-4,2-6,no,no
+1971/72,CL,Round 2,Celtic,Sco,Sliema Wanderers,Mlt,5-0,2-1,7-1,no,no
+1971/72,CL,Quarter Finals,Ajax,Ned,Arsenal,Eng,2-1,1-0,3-1,no,no
+1971/72,CL,Quarter Finals,Feyenoord,Ned,Benfica,Por,1-0,1-5,2-5,no,no
+1971/72,CL,Quarter Finals,Újpest Dózsa,Hun,Celtic,Sco,1-2,1-1,2-3,no,no
+1971/72,CL,Quarter Finals,Internazionale,Ita,Standard Liège,Bel,1-0,1-2,2-2,no,no
+1971/72,CL,Semi Finals,Ajax,Ned,Benfica,Por,1-0,0-0,1-0,no,no
+1971/72,CL,Semi Finals,Internazionale,Ita,Celtic,Sco,0-0,0-0,0-0,no,no
+1971/72,CL,Final,Ajax,Ned,Internazionale,Ita,2-0,,2-0,no,no
+1971/72,CW,Qualifying Round,B1909 Odense,Den,Austria Wien,Aut,4-2,0-2,4-4,no,no
+1971/72,CW,Qualifying Round,Hibernians FC,Mlt,Fram Reykjavik,Isl,3-0,0-2,3-2,no,no
+1971/72,CW,Round 1,Servette FC Genève,Sui,Liverpool,Eng,2-1,0-2,2-3,no,no
+1971/72,CW,Round 1,Distillery Belfast,Nir,FC Barcelona,Esp,1-3,0-4,1-7,no,no
+1971/72,CW,Round 1,BFC Dynamo Berlin,GDR,Cardiff City,Wal,1-1,1-1,2-2,no,no
+1971/72,CW,Round 1,Jeunesse Hautcharage,Lux,Chelsea,Eng,0-8,0-13,0-21,no,no
+1971/72,CW,Round 1,Limerick,Irl,Torino,Ita,0-1,0-4,0-5,no,no
+1971/72,CW,Round 1,Dinamo Tirana,Alb,Austria Wien,Aut,1-1,0-1,1-2,no,no
+1971/72,CW,Round 1,Stade Rennais,Fra,Glasgow Rangers,Sco,1-1,0-1,1-2,no,no
+1971/72,CW,Round 1,Hibernians FC,Mlt,Steaua Bucuresti,Rom,0-0,0-1,0-1,no,no
+1971/72,CW,Round 1,Sporting CP Lisbon,Por,Lyn Oslo,Nor,4-0,3-0,7-0,no,no
+1971/72,CW,Round 1,TJ Skoda Plzen,TCH,Bayern München,Ger,0-1,1-6,1-7,no,no
+1971/72,CW,Round 1,Komloi Banyasz,Hun,Red Star Belgrade,YUG,2-7,2-1,4-8,no,no
+1971/72,CW,Round 1,Olympiakos Piraeus,Gre,Dinamo Moscow,URS,0-2,2-1,2-3,no,no
+1971/72,CW,Round 1,Levski-Spartak Sofia,Bul,Sparta Rotterdam,Ned,1-1,0-2,1-3,no,no
+1971/72,CW,Round 1,Zaglebie Sosnowiec,Pol,Åtvidabergs FF,Swe,3-4,1-1,4-5,no,no
+1971/72,CW,Round 1,MP Mikkeli,Fin,Eskisehirspor,Tur,0-0,0-4,0-4,no,no
+1971/72,CW,Round 1,Beerschot VAV,Bel,Anorthosis Famagusta,Cyp,7-0,1-0,8-0,no,no
+1971/72,CW,Round 2,Liverpool,Eng,Bayern München,Ger,0-0,1-3,1-3,no,no
+1971/72,CW,Round 2,Åtvidabergs FF,Swe,Chelsea,Eng,0-0,1-1,1-1,no,no
+1971/72,CW,Round 2,Torino,Ita,Austria Wien,Aut,1-0,0-0,1-0,no,no
+1971/72,CW,Round 2,Glasgow Rangers,Sco,Sporting CP Lisbon,Por,3-2,3-4,6-6,no,no
+1971/72,CW,Round 2,Beerschot VAV,Bel,BFC Dynamo Berlin,GDR,1-3,1-3,2-6,no,no
+1971/72,CW,Round 2,Sparta Rotterdam,Ned,Red Star Belgrade,YUG,1-1,1-2,2-3,no,no
+1971/72,CW,Round 2,FC Barcelona,Esp,Steaua Bucuresti,Rom,0-1,1-2,1-3,no,no
+1971/72,CW,Round 2,Eskisehirspor,Tur,Dinamo Moscow,URS,0-1,0-1,0-2,no,no
+1971/72,CW,Quarter Finals,Torino,Ita,Glasgow Rangers,Sco,1-1,0-1,1-2,no,no
+1971/72,CW,Quarter Finals,Steaua Bucuresti,Rom,Bayern München,Ger,1-1,0-0,1-1,no,no
+1971/72,CW,Quarter Finals,Åtvidabergs FF,Swe,BFC Dynamo Berlin,GDR,0-2,2-2,2-4,no,no
+1971/72,CW,Quarter Finals,Red Star Belgrade,YUG,Dinamo Moscow,URS,1-2,1-1,2-3,no,no
+1971/72,CW,Semi Finals,Bayern München,Ger,Glasgow Rangers,Sco,1-1,0-2,1-3,no,no
+1971/72,CW,Semi Finals,BFC Dynamo Berlin,GDR,Dinamo Moscow,URS,1-1,1-1,2-2,no,no
+1971/72,CW,Final,Glasgow Rangers,Sco,Dinamo Moscow,URS,3-2,,3-2,no,no
+1971/72,EL,Round 1,Hertha BSC,Ger,IF Elfsborg,Swe,3-1,4-1,7-2,no,no
+1971/72,EL,Round 1,Dundee FC,Sco,AB København,Den,4-2,1-0,5-2,no,no
+1971/72,EL,Round 1,Rosenborg BK,Nor,HIFK Helsinki,Fin,3-0,1-0,4-0,no,no
+1971/72,EL,Round 1,Vasas Budapest,Hun,Shelbourne,Irl,1-0,1-1,2-1,no,no
+1971/72,EL,Round 1,Glentoran,Nir,Eintracht Braunschweig,Ger,0-1,1-6,1-7,no,no
+1971/72,EL,Round 1,Keflavik,Isl,Tottenham Hotspur,Eng,1-6,0-9,1-15,no,no
+1971/72,EL,Round 1,Celta de Vigo,Esp,Aberdeen,Sco,0-2,0-1,0-3,no,no
+1971/72,EL,Round 1,FC Den Haag,Ned,Aris Bonnevoie,Lux,5-0,2-2,7-2,no,no
+1971/72,EL,Round 1,Wolverhampton Wanderers,Eng,Académica Coimbra,Por,3-0,4-1,7-1,no,no
+1971/72,EL,Round 1,AS Saint-Étienne,Fra,1.FC Köln,Ger,1-1,1-2,2-3,no,no
+1971/72,EL,Round 1,FC Lugano,Sui,Legia Warsaw,Pol,1-3,0-0,1-3,no,no
+1971/72,EL,Round 1,FC Porto,Por,FC Nantes,Fra,0-2,1-1,1-3,no,no
+1971/72,EL,Round 1,Hamburger SV,Ger,St. Johnstone,Sco,2-1,0-3,2-4,no,no
+1971/72,EL,Round 1,Southampton FC,Eng,Athletic Bilbao,Esp,2-1,0-2,2-3,no,no
+1971/72,EL,Round 1,Bologna,Ita,Anderlecht,Bel,1-1,2-0,3-1,no,no
+1971/72,EL,Round 1,Napoli,Ita,Rapid Bucuresti,Rom,1-0,0-2,1-2,no,no
+1971/72,EL,Round 1,Vitória Setúbal,Por,Olympique Nimes,Fra,1-0,1-2,2-2,no,no
+1971/72,EL,Round 1,Atlético Madrid,Esp,Panionios,Gre,2-1,0-1,2-2,no,no
+1971/72,EL,Round 1,Carl Zeiss Jena,GDR,Lokomotiv Plovdiv,Bul,3-0,1-3,4-3,no,no
+1971/72,EL,Round 1,FC Basel,Sui,Real Madrid,Esp,1-2,1-2,2-4,no,no
+1971/72,EL,Round 1,Marsa FC,Mlt,Juventus,Ita,0-6,0-5,0-11,no,no
+1971/72,EL,Round 1,Dinamo Zagreb,YUG,Botev Vratsa,Bul,6-1,2-1,8-2,no,no
+1971/72,EL,Round 1,UT Arad,Rom,Austria Salzburg,Aut,4-1,1-3,5-4,no,no
+1971/72,EL,Round 1,Fenerbahçe,Tur,Ferencváros,Hun,1-1,1-3,2-4,no,no
+1971/72,EL,Round 1,AC Milan,Ita,Digenis Morphou,Cyp,4-0,3-0,7-0,no,no
+1971/72,EL,Round 1,Spartak Moscow,URS,VSS Kosice,TCH,2-0,1-2,3-2,no,no
+1971/72,EL,Round 1,OFK Belgrade,YUG,Djurgårdens IF,Swe,4-1,2-2,6-3,no,no
+1971/72,EL,Round 1,Zeljeznicar Sarajevo,YUG,Club Brugge,Bel,3-0,1-3,4-3,no,no
+1971/72,EL,Round 1,FC Halle,GDR,PSV Eindhoven,Ned,0-0,,0-0,no,no
+1971/72,EL,Round 1,Zaglebie Walbrzych,Pol,Union Teplice,TCH,1-0,3-2,4-2,no,no
+1971/72,EL,Round 1,Lierse SK,Bel,Leeds United,Eng,0-2,4-0,4-2,no,no
+1971/72,EL,Round 2,Rosenborg BK,Nor,Lierse SK,Bel,4-1,0-3,4-4,no,no
+1971/72,EL,Round 2,Rapid Bucuresti,Rom,Legia Warsaw,Pol,4-0,0-2,4-2,no,no
+1971/72,EL,Round 2,1.FC Köln,Ger,Dundee FC,Sco,2-1,2-4,4-5,no,no
+1971/72,EL,Round 2,FC Den Haag,Ned,Wolverhampton Wanderers,Eng,1-3,0-4,1-7,no,no
+1971/72,EL,Round 2,Zeljeznicar Sarajevo,YUG,Bologna,Ita,1-1,2-2,3-3,no,no
+1971/72,EL,Round 2,FC Nantes,Fra,Tottenham Hotspur,Eng,0-0,0-1,0-1,no,no
+1971/72,EL,Round 2,Eintracht Braunschweig,Ger,Athletic Bilbao,Esp,2-1,2-2,4-3,no,no
+1971/72,EL,Round 2,St. Johnstone,Sco,Vasas Budapest,Hun,2-0,0-1,2-1,no,no
+1971/72,EL,Round 2,Spartak Moscow,URS,Vitória Setúbal,Por,0-0,0-4,0-4,no,no
+1971/72,EL,Round 2,AC Milan,Ita,Hertha BSC,Ger,4-2,1-2,5-4,no,no
+1971/72,EL,Round 2,OFK Belgrade,YUG,Carl Zeiss Jena,GDR,1-1,0-4,1-5,no,no
+1971/72,EL,Round 2,Zaglebie Walbrzych,Pol,UT Arad,Rom,1-1,1-2,2-3,no,no
+1971/72,EL,Round 2,Dinamo Zagreb,YUG,Rapid Wien,Aut,2-2,0-0,2-2,no,no
+1971/72,EL,Round 2,Real Madrid,Esp,PSV Eindhoven,Ned,3-1,0-2,3-3,no,no
+1971/72,EL,Round 2,Juventus,Ita,Aberdeen,Sco,2-0,1-1,3-1,no,no
+1971/72,EL,Round 2,Ferencváros,Hun,Panionios,Gre,6-0,,6-0,no,no
+1971/72,EL,Round 3,AC Milan,Ita,Dundee FC,Sco,3-0,0-2,3-2,no,no
+1971/72,EL,Round 3,Carl Zeiss Jena,GDR,Wolverhampton Wanderers,Eng,0-1,0-3,0-4,no,no
+1971/72,EL,Round 3,Eintracht Braunschweig,Ger,Ferencváros,Hun,1-1,2-5,3-6,no,no
+1971/72,EL,Round 3,PSV Eindhoven,Ned,Lierse SK,Bel,1-0,0-4,1-4,no,no
+1971/72,EL,Round 3,Rapid Wien,Aut,Juventus,Ita,0-1,1-4,1-5,no,no
+1971/72,EL,Round 3,St. Johnstone,Sco,Zeljeznicar Sarajevo,YUG,1-0,1-5,2-5,no,no
+1971/72,EL,Round 3,Tottenham Hotspur,Eng,Rapid Bucuresti,Rom,3-0,2-0,5-0,no,no
+1971/72,EL,Round 3,UT Arad,Rom,Vitória Setúbal,Por,3-0,0-1,3-1,no,no
+1971/72,EL,Quarter Finals,AC Milan,Ita,Lierse SK,Bel,2-0,1-1,3-1,no,no
+1971/72,EL,Quarter Finals,UT Arad,Rom,Tottenham Hotspur,Eng,0-2,1-1,1-3,no,no
+1971/72,EL,Quarter Finals,Ferencváros,Hun,Zeljeznicar Sarajevo,YUG,1-2,2-1,3-3,no,no
+1971/72,EL,Quarter Finals,Juventus,Ita,Wolverhampton Wanderers,Eng,1-1,1-2,2-3,no,no
+1971/72,EL,Semi Finals,Tottenham Hotspur,Eng,AC Milan,Ita,2-1,1-1,3-2,no,no
+1971/72,EL,Semi Finals,Ferencváros,Hun,Wolverhampton Wanderers,Eng,2-2,1-2,3-4,no,no
+1971/72,EL,Final,Wolverhampton Wanderers,Eng,Tottenham Hotspur,Eng,1-2,1-1,2-3,no,no
+1972/73,CL,Round 1,Real Madrid,Esp,Keflavik,Isl,3-0,1-0,4-0,no,no
+1972/73,CL,Round 1,Anderlecht,Bel,Vejle BK,Den,4-2,3-0,7-2,no,no
+1972/73,CL,Round 1,Újpest Dózsa,Hun,FC Basel,Sui,2-0,2-3,4-3,no,no
+1972/73,CL,Round 1,Celtic,Sco,Rosenborg BK,Nor,2-1,3-1,5-2,no,no
+1972/73,CL,Round 1,Galatasaray,Tur,Bayern München,Ger,1-1,0-6,1-7,no,no
+1972/73,CL,Round 1,Olympique Marseille,Fra,Juventus,Ita,1-0,0-3,1-3,no,no
+1972/73,CL,Round 1,Malmö FF,Swe,Benfica,Por,1-0,1-4,2-4,no,no
+1972/73,CL,Round 1,Wacker Innsbruck,Aut,Dinamo Kiev,URS,0-1,0-2,0-3,no,no
+1972/73,CL,Round 1,CSKA Sofia,Bul,Panathinaikos,Gre,2-1,2-0,4-1,no,no
+1972/73,CL,Round 1,Sliema Wanderers,Mlt,Górnik Zabrze,Pol,0-5,0-5,0-10,no,no
+1972/73,CL,Round 1,1.FC Magdeburg,GDR,TPS Turku,Fin,6-0,3-1,9-1,no,no
+1972/73,CL,Round 1,Aris Bonnevoie,Lux,Arges Pitesti,Rom,0-2,0-4,0-6,no,no
+1972/73,CL,Round 1,Derby County,Eng,Zeljeznicar Sarajevo,YUG,2-0,2-1,4-1,no,no
+1972/73,CL,Round 1,Waterford,Irl,Omonia Nicosia,Cyp,2-1,0-2,2-3,no,no
+1972/73,CL,Round 2,Bayern München,Ger,Omonia Nicosia,Cyp,9-0,4-0,13-0,no,no
+1972/73,CL,Round 2,Spartak Trnava,TCH,Anderlecht,Bel,1-0,1-0,2-0,no,no
+1972/73,CL,Round 2,Derby County,Eng,Benfica,Por,3-0,0-0,3-0,no,no
+1972/73,CL,Round 2,Celtic,Sco,Újpest Dózsa,Hun,2-1,0-3,2-4,no,no
+1972/73,CL,Round 2,Dinamo Kiev,URS,Górnik Zabrze,Pol,2-0,1-2,3-2,no,no
+1972/73,CL,Round 2,Juventus,Ita,1.FC Magdeburg,GDR,1-0,1-0,2-0,no,no
+1972/73,CL,Round 2,Arges Pitesti,Rom,Real Madrid,Esp,2-1,1-3,3-4,no,no
+1972/73,CL,Round 2,CSKA Sofia,Bul,Ajax,Ned,1-3,0-3,1-6,no,no
+1972/73,CL,Quarter Finals,Juventus,Ita,Újpest Dózsa,Hun,0-0,2-2,2-2,no,no
+1972/73,CL,Quarter Finals,Spartak Trnava,TCH,Derby County,Eng,1-0,0-2,1-2,no,no
+1972/73,CL,Quarter Finals,Dinamo Kiev,URS,Real Madrid,Esp,0-0,0-3,0-3,no,no
+1972/73,CL,Quarter Finals,Ajax,Ned,Bayern München,Ger,4-0,1-2,5-2,no,no
+1972/73,CL,Semi Finals,Juventus,Ita,Derby County,Eng,3-1,0-0,3-1,no,no
+1972/73,CL,Semi Finals,Ajax,Ned,Real Madrid,Esp,2-1,1-0,3-1,no,no
+1972/73,CL,Final,Ajax,Ned,Juventus,Ita,1-0,,1-0,no,no
+1972/73,CW,Round 1,SC Bastia,Fra,Atlético Madrid,Esp,0-0,1-2,1-2,no,no
+1972/73,CW,Round 1,Floriana,Mlt,Ferencváros,Hun,1-0,0-6,1-6,no,no
+1972/73,CW,Round 1,Schalke 04,Ger,Slavia Sofia,Bul,2-1,3-1,5-2,no,no
+1972/73,CW,Round 1,Standard Liège,Bel,Sparta Praha,TCH,1-0,2-4,3-4,no,no
+1972/73,CW,Round 1,Spartak Moscow,URS,FC Den Haag,Ned,1-0,0-0,1-0,no,no
+1972/73,CW,Round 1,Vikingur Reykjavik,Isl,Legia Warsaw,Pol,0-2,0-9,0-11,no,no
+1972/73,CW,Round 1,Ankaragücü,Tur,Leeds United,Eng,1-1,0-1,1-2,no,no
+1972/73,CW,Round 1,Hajduk Split,YUG,Fredrikstad FK,Nor,1-0,1-0,2-0,no,no
+1972/73,CW,Round 1,Rapid Wien,Aut,PAOK Thessaloniki,Gre,0-0,2-2,2-2,no,no
+1972/73,CW,Round 1,FC Zürich,Sui,Wrexham,Wal,1-1,1-2,2-3,no,no
+1972/73,CW,Round 1,Sporting CP Lisbon,Por,Hibernian,Sco,2-1,1-6,3-7,no,no
+1972/73,CW,Round 1,Rapid Bucuresti,Rom,Landskrona BoIS,Swe,3-0,0-1,3-1,no,no
+1972/73,CW,Round 1,Pezoporikos Larnaca,Cyp,Cork Hibernians,Irl,1-2,1-4,2-6,no,no
+1972/73,CW,Round 1,Fremad Amager,Den,Besa Kavajë,Alb,1-1,0-0,1-1,no,no
+1972/73,CW,Round 1,Carl Zeiss Jena,GDR,MP Mikkeli,Fin,6-1,2-3,8-4,no,no
+1972/73,CW,Round 1,Red Boys Differdange,Lux,AC Milan,Ita,1-4,0-3,1-7,no,no
+1972/73,CW,Round 2,Rapid Wien,Aut,Rapid Bucuresti,Rom,1-1,1-3,2-4,no,no
+1972/73,CW,Round 2,Carl Zeiss Jena,GDR,Leeds United,Eng,0-0,0-2,0-2,no,no
+1972/73,CW,Round 2,Wrexham,Wal,Hajduk Split,YUG,3-1,0-2,3-3,no,no
+1972/73,CW,Round 2,Cork Hibernians,Irl,Schalke 04,Ger,0-0,0-3,0-3,no,no
+1972/73,CW,Round 2,Atlético Madrid,Esp,Spartak Moscow,URS,3-4,2-1,5-5,no,no
+1972/73,CW,Round 2,Hibernian,Sco,Besa Kavajë,Alb,7-1,1-1,8-2,no,no
+1972/73,CW,Round 2,Ferencváros,Hun,Sparta Praha,TCH,2-0,1-4,3-4,no,no
+1972/73,CW,Round 2,Legia Warsaw,Pol,AC Milan,Ita,1-1,1-2,2-3,no,no
+1972/73,CW,Quarter Finals,Leeds United,Eng,Rapid Bucuresti,Rom,5-0,3-1,8-1,no,no
+1972/73,CW,Quarter Finals,Hibernian,Sco,Hajduk Split,YUG,4-2,0-3,4-5,no,no
+1972/73,CW,Quarter Finals,Schalke 04,Ger,Sparta Praha,TCH,2-1,0-3,2-4,no,no
+1972/73,CW,Quarter Finals,Spartak Moscow,URS,AC Milan,Ita,0-1,1-1,1-2,no,no
+1972/73,CW,Semi Finals,Leeds United,Eng,Hajduk Split,YUG,1-0,0-0,1-0,no,no
+1972/73,CW,Semi Finals,AC Milan,Ita,Sparta Praha,TCH,1-0,1-0,2-0,no,no
+1972/73,CW,Final,AC Milan,Ita,Leeds United,Eng,1-0,,1-0,no,no
+1972/73,EL,Round 1,Aberdeen,Sco,Borussia Mönchengladbach,Ger,2-3,3-6,5-9,no,no
+1972/73,EL,Round 1,Åtvidabergs FF,Swe,Club Brugge,Bel,3-5,2-1,5-6,no,no
+1972/73,EL,Round 1,Manchester City,Eng,Valencia,Esp,2-2,1-2,3-4,no,no
+1972/73,EL,Round 1,Lyn Oslo,Nor,Tottenham Hotspur,Eng,3-6,0-6,3-12,no,no
+1972/73,EL,Round 1,1.FC Köln,Ger,Bohemians Dublin,Irl,2-1,3-0,5-1,no,no
+1972/73,EL,Round 1,Honvéd Budapest,Hun,Partick Thistle,Sco,1-0,3-0,4-0,no,no
+1972/73,EL,Round 1,Viking Stavanger,Nor,IBV Vestmannaeyjar,Isl,1-0,0-0,1-0,no,no
+1972/73,EL,Round 1,Feyenoord,Ned,US Rumelange,Lux,9-0,12-0,21-0,no,no
+1972/73,EL,Round 1,Liverpool,Eng,Eintracht Frankfurt,Ger,2-0,0-0,2-0,no,no
+1972/73,EL,Round 1,Olympique Nimes,Fra,Grasshoppers Zürich,Sui,1-2,1-2,2-4,no,no
+1972/73,EL,Round 1,Vitória Setúbal,Por,Zaglebie Sosnowiec,Pol,6-1,0-1,6-2,no,no
+1972/73,EL,Round 1,Stoke City,Eng,1.FC Kaiserslautern,Ger,3-1,0-4,3-5,no,no
+1972/73,EL,Round 1,Racing White,Bel,GD CUF Barreiro,Por,0-1,0-2,0-3,no,no
+1972/73,EL,Round 1,Torino,Ita,UD Las Palmas,Esp,2-0,0-4,2-4,no,no
+1972/73,EL,Round 1,FC Sochaux-Montbéliard,Fra,Frem Kobenhavn,Den,1-3,1-2,2-5,no,no
+1972/73,EL,Round 1,Olympiakos Piraeus,Gre,Cagliari,Ita,2-1,1-0,3-1,no,no
+1972/73,EL,Round 1,SCO Angers,Fra,BFC Dynamo Berlin,GDR,1-1,1-2,2-3,no,no
+1972/73,EL,Round 1,FC Porto,Por,FC Barcelona,Esp,3-1,1-0,4-1,no,no
+1972/73,EL,Round 1,Universitatea Cluj,Rom,Levski-Spartak Sofia,Bul,4-1,1-5,5-6,no,no
+1972/73,EL,Round 1,Red Star Belgrade,YUG,Lausanne Sports,Sui,5-1,2-3,7-4,no,no
+1972/73,EL,Round 1,Internazionale,Ita,Valletta FC,Mlt,6-1,1-0,7-1,no,no
+1972/73,EL,Round 1,FC Beroe Stara Zagora,Bul,Austria Wien,Aut,7-0,3-1,10-1,no,no
+1972/73,EL,Round 1,UT Arad,Rom,IFK Norrköping,Swe,1-2,0-2,1-4,no,no
+1972/73,EL,Round 1,EPA Larnaca,Cyp,Ararat Yerevan,URS,0-1,0-1,0-2,no,no
+1972/73,EL,Round 1,AEK Athens,Gre,Salgótarján BTC,Hun,3-1,1-1,4-2,no,no
+1972/73,EL,Round 1,Eskisehirspor,Tur,Fiorentina,Ita,1-2,0-3,1-5,no,no
+1972/73,EL,Round 1,Dukla Praha,TCH,OFK Belgrade,YUG,2-2,1-3,3-5,no,no
+1972/73,EL,Round 1,Slovan Bratislava,TCH,Vojvodina Novi Sad,YUG,6-0,2-1,8-1,no,no
+1972/73,EL,Round 1,Dinamo Tbilisi,URS,FC Twente Enschede,Ned,3-2,0-2,3-4,no,no
+1972/73,EL,Round 1,Ruch Chorzow,Pol,Fenerbahçe,Tur,3-0,0-1,3-1,no,no
+1972/73,EL,Round 1,Dynamo Dresden,GDR,SK Vöest Linz,Aut,2-0,2-2,4-2,no,no
+1972/73,EL,Round 2,BFC Dynamo Berlin,GDR,Levski-Spartak Sofia,Bul,3-0,0-2,3-2,no,no
+1972/73,EL,Round 2,Borussia Mönchengladbach,Ger,Hvidovre IF,Den,3-0,3-1,6-1,no,no
+1972/73,EL,Round 2,FC Porto,Por,Club Brugge,Bel,3-0,2-3,5-3,no,no
+1972/73,EL,Round 2,Tottenham Hotspur,Eng,Olympiakos Piraeus,Gre,4-0,0-1,4-1,no,no
+1972/73,EL,Round 2,Red Star Belgrade,YUG,Valencia,Esp,3-1,1-0,4-1,no,no
+1972/73,EL,Round 2,Internazionale,Ita,IFK Norrköping,Swe,2-2,2-0,4-2,no,no
+1972/73,EL,Round 2,Viking Stavanger,Nor,1.FC Köln,Ger,1-0,1-9,2-9,no,no
+1972/73,EL,Round 2,FC Beroe Stara Zagora,Bul,Honvéd Budapest,Hun,3-0,0-1,3-1,no,no
+1972/73,EL,Round 2,Feyenoord,Ned,OFK Belgrade,YUG,4-3,1-2,5-5,no,no
+1972/73,EL,Round 2,Liverpool,Eng,AEK Athens,Gre,3-0,3-1,6-1,no,no
+1972/73,EL,Round 2,Vitória Setúbal,Por,Fiorentina,Ita,1-0,1-2,2-2,no,no
+1972/73,EL,Round 2,Grasshoppers Zürich,Sui,Ararat Yerevan,URS,1-3,2-4,3-7,no,no
+1972/73,EL,Round 2,GD CUF Barreiro,Por,1.FC Kaiserslautern,Ger,1-3,1-0,2-3,no,no
+1972/73,EL,Round 2,UD Las Palmas,Esp,Slovan Bratislava,TCH,2-2,1-0,3-2,no,no
+1972/73,EL,Round 2,Ruch Chorzow,Pol,Dynamo Dresden,GDR,0-1,0-3,0-4,no,no
+1972/73,EL,Round 2,Frem Kobenhavn,Den,FC Twente Enschede,Ned,0-5,0-4,0-9,no,no
+1972/73,EL,Round 3,Ararat Yerevan,URS,1.FC Kaiserslautern,Ger,2-0,0-2,2-2,no,no
+1972/73,EL,Round 3,1.FC Köln,Ger,Borussia Mönchengladbach,Ger,0-0,0-5,0-5,no,no
+1972/73,EL,Round 3,Tottenham Hotspur,Eng,Red Star Belgrade,YUG,2-0,0-1,2-1,no,no
+1972/73,EL,Round 3,FC Twente Enschede,Ned,UD Las Palmas,Esp,3-0,1-2,4-2,no,no
+1972/73,EL,Round 3,OFK Belgrade,YUG,FC Beroe Stara Zagora,Bul,0-0,3-1,3-1,no,no
+1972/73,EL,Round 3,Vitória Setúbal,Por,Internazionale,Ita,2-0,0-1,2-1,no,no
+1972/73,EL,Round 3,BFC Dynamo Berlin,GDR,Liverpool,Eng,0-0,1-3,1-3,no,no
+1972/73,EL,Round 3,FC Porto,Por,Dynamo Dresden,GDR,1-2,0-1,1-3,no,no
+1972/73,EL,Quarter Finals,1.FC Kaiserslautern,Ger,Borussia Mönchengladbach,Ger,1-2,1-7,2-9,no,no
+1972/73,EL,Quarter Finals,OFK Belgrade,YUG,FC Twente Enschede,Ned,3-2,0-2,3-4,no,no
+1972/73,EL,Quarter Finals,Tottenham Hotspur,Eng,Vitória Setúbal,Por,1-0,1-2,2-2,no,no
+1972/73,EL,Quarter Finals,Liverpool,Eng,Dynamo Dresden,GDR,2-0,1-0,3-0,no,no
+1972/73,EL,Semi Finals,Liverpool,Eng,Tottenham Hotspur,Eng,1-0,1-2,2-2,no,no
+1972/73,EL,Semi Finals,Borussia Mönchengladbach,Ger,FC Twente Enschede,Ned,3-0,2-1,5-1,no,no
+1972/73,EL,Final,Liverpool,Eng,Borussia Mönchengladbach,Ger,3-0,0-2,3-2,no,no
+1973/74,CL,Round 1,Waterford,Irl,Újpest Dózsa,Hun,2-3,0-3,2-6,no,no
+1973/74,CL,Round 1,Bayern München,Ger,Åtvidabergs FF,Swe,3-1,1-3,4-4,no,no
+1973/74,CL,Round 1,Benfica,Por,Olympiakos Piraeus,Gre,1-0,1-0,2-0,no,no
+1973/74,CL,Round 1,TPS Turku,Fin,Celtic,Sco,1-6,0-3,1-9,no,no
+1973/74,CL,Round 1,Dynamo Dresden,GDR,Juventus,Ita,2-0,2-3,4-3,no,no
+1973/74,CL,Round 1,Zaria Voroshilovgrad,URS,APOEL Nicosia,Cyp,2-0,1-0,3-0,no,no
+1973/74,CL,Round 1,Red Star Belgrade,YUG,Stal Mielec,Pol,2-1,1-0,3-1,no,no
+1973/74,CL,Round 1,Club Brugge,Bel,Floriana,Mlt,8-0,2-0,10-0,no,no
+1973/74,CL,Round 1,Jeunesse d'Esch,Lux,Liverpool,Eng,1-1,0-2,1-3,no,no
+1973/74,CL,Round 1,Atlético Madrid,Esp,Galatasaray,Tur,0-0,1-0,1-0,no,no
+1973/74,CL,Round 1,Viking Stavanger,Nor,Spartak Trnava,TCH,1-2,0-1,1-3,no,no
+1973/74,CL,Round 1,Vejle BK,Den,FC Nantes,Fra,2-2,1-0,3-2,no,no
+1973/74,CL,Round 1,CSKA Sofia,Bul,Wacker Innsbruck,Aut,3-0,1-0,4-0,no,no
+1973/74,CL,Round 1,FC Basel,Sui,Fram Reykjavik,Isl,5-0,6-2,11-2,no,no
+1973/74,CL,Round 1,Crusaders Belfast,Nir,Dinamo Bucuresti,Rom,0-1,0-11,0-12,no,no
+1973/74,CL,Round 2,Benfica,Por,Újpest Dózsa,Hun,1-1,0-2,1-3,no,no
+1973/74,CL,Round 2,Celtic,Sco,Vejle BK,Den,0-0,1-0,1-0,no,no
+1973/74,CL,Round 2,Spartak Trnava,TCH,Zaria Voroshilovgrad,URS,0-0,1-0,1-0,no,no
+1973/74,CL,Round 2,Red Star Belgrade,YUG,Liverpool,Eng,2-1,2-1,4-2,no,no
+1973/74,CL,Round 2,Club Brugge,Bel,FC Basel,Sui,2-1,4-6,6-7,no,no
+1973/74,CL,Round 2,Dinamo Bucuresti,Rom,Atlético Madrid,Esp,0-2,2-2,2-4,no,no
+1973/74,CL,Round 2,Ajax,Ned,CSKA Sofia,Bul,1-0,0-2,1-2,no,no
+1973/74,CL,Round 2,Bayern München,Ger,Dynamo Dresden,GDR,4-3,3-3,7-6,no,no
+1973/74,CL,Quarter Finals,Spartak Trnava,TCH,Újpest Dózsa,Hun,1-1,1-1,2-2,no,no
+1973/74,CL,Quarter Finals,Bayern München,Ger,CSKA Sofia,Bul,4-1,1-2,5-3,no,no
+1973/74,CL,Quarter Finals,Red Star Belgrade,YUG,Atlético Madrid,Esp,0-2,0-0,0-2,no,no
+1973/74,CL,Quarter Finals,FC Basel,Sui,Celtic,Sco,3-2,2-4,5-6,no,no
+1973/74,CL,Semi Finals,Újpest Dózsa,Hun,Bayern München,Ger,1-1,0-3,1-4,no,no
+1973/74,CL,Semi Finals,Celtic,Sco,Atlético Madrid,Esp,0-0,0-2,0-2,no,no
+1973/74,CL,Final,Bayern München,Ger,Atlético Madrid,Esp,1-1,,1-1,no,no
+1973/74,CW,Round 1,Legia Warsaw,Pol,PAOK Thessaloniki,Gre,1-1,0-1,1-2,no,no
+1973/74,CW,Round 1,Anderlecht,Bel,FC Zürich,Sui,3-2,0-1,3-3,no,no
+1973/74,CW,Round 1,IBV Vestmannaeyjar,Isl,Borussia Mönchengladbach,Ger,0-7,1-9,1-16,no,no
+1973/74,CW,Round 1,Vasas Budapest,Hun,Sunderland AFC,Eng,0-2,0-1,0-3,no,no
+1973/74,CW,Round 1,Ankaragücü,Tur,Glasgow Rangers,Sco,0-2,0-4,0-6,no,no
+1973/74,CW,Round 1,AC Milan,Ita,Dinamo Zagreb,YUG,3-1,1-0,4-1,no,no
+1973/74,CW,Round 1,Torpedo Moscow,URS,Athletic Bilbao,Esp,0-0,0-2,0-2,no,no
+1973/74,CW,Round 1,Gzira United,Mlt,SK Brann Bergen,Nor,0-2,0-7,0-9,no,no
+1973/74,CW,Round 1,NAC Breda,Ned,1.FC Magdeburg,GDR,0-0,0-2,0-2,no,no
+1973/74,CW,Round 1,Randers Freja,Den,Rapid Wien,Aut,0-0,1-2,1-2,no,no
+1973/74,CW,Round 1,Chimia Rimnicu Vilcea,Rom,Glentoran,Nir,2-2,0-2,2-4,no,no
+1973/74,CW,Round 1,Pezoporikos Larnaca,Cyp,Malmö FF,Swe,0-0,0-11,0-11,no,no
+1973/74,CW,Round 1,FC Beroe Stara Zagora,Bul,CS Fola Esch,Lux,7-0,4-1,11-1,no,no
+1973/74,CW,Round 1,Baník Ostrava,TCH,Cork Hibernians,Irl,1-0,2-1,3-1,no,no
+1973/74,CW,Round 1,Reipas Lahti,Fin,Olympique Lyon,Fra,0-0,0-2,0-2,no,no
+1973/74,CW,Round 1,Cardiff City,Wal,Sporting CP Lisbon,Por,0-0,1-2,1-2,no,no
+1973/74,CW,Round 2,Olympique Lyon,Fra,PAOK Thessaloniki,Gre,3-3,0-4,3-7,no,no
+1973/74,CW,Round 2,Borussia Mönchengladbach,Ger,Glasgow Rangers,Sco,3-0,2-3,5-3,no,no
+1973/74,CW,Round 2,SK Brann Bergen,Nor,Glentoran,Nir,1-1,1-3,2-4,no,no
+1973/74,CW,Round 2,Baník Ostrava,TCH,1.FC Magdeburg,GDR,2-0,0-3,2-3,no,no
+1973/74,CW,Round 2,FC Zürich,Sui,Malmö FF,Swe,0-0,1-1,1-1,no,no
+1973/74,CW,Round 2,FC Beroe Stara Zagora,Bul,Athletic Bilbao,Esp,3-0,0-1,3-1,no,no
+1973/74,CW,Round 2,Sunderland AFC,Eng,Sporting CP Lisbon,Por,2-1,0-2,2-3,no,no
+1973/74,CW,Round 2,AC Milan,Ita,Rapid Wien,Aut,0-0,2-0,2-0,no,no
+1973/74,CW,Quarter Finals,1.FC Magdeburg,GDR,FC Beroe Stara Zagora,Bul,2-0,1-1,3-1,no,no
+1973/74,CW,Quarter Finals,Glentoran,Nir,Borussia Mönchengladbach,Ger,0-2,0-5,0-7,no,no
+1973/74,CW,Quarter Finals,Sporting CP Lisbon,Por,FC Zürich,Sui,3-0,1-1,4-1,no,no
+1973/74,CW,Quarter Finals,AC Milan,Ita,PAOK Thessaloniki,Gre,3-0,2-2,5-2,no,no
+1973/74,CW,Semi Finals,AC Milan,Ita,Borussia Mönchengladbach,Ger,2-0,0-1,2-1,no,no
+1973/74,CW,Semi Finals,Sporting CP Lisbon,Por,1.FC Magdeburg,GDR,1-1,1-2,2-3,no,no
+1973/74,CW,Final,1.FC Magdeburg,GDR,AC Milan,Ita,2-0,,2-0,no,no
+1973/74,EL,Round 1,Fredrikstad FK,Nor,Dinamo Kiev,URS,0-1,0-4,0-5,no,no
+1973/74,EL,Round 1,Ruch Chorzow,Pol,Wuppertaler SV,Ger,4-1,4-5,8-6,no,no
+1973/74,EL,Round 1,B1903 København,Den,AIK Stockholm,Swe,2-1,1-1,3-2,no,no
+1973/74,EL,Round 1,Carl Zeiss Jena,GDR,MP Mikkeli,Fin,3-0,3-0,6-0,no,no
+1973/74,EL,Round 1,Strømsgodset IF,Nor,Leeds United,Eng,1-1,1-6,2-7,no,no
+1973/74,EL,Round 1,Östers IF,Swe,Feyenoord,Ned,1-3,1-2,2-5,no,no
+1973/74,EL,Round 1,Hibernian,Sco,Keflavik,Isl,2-0,1-1,3-1,no,no
+1973/74,EL,Round 1,OGC Nice,Fra,FC Barcelona,Esp,3-0,0-2,3-2,no,no
+1973/74,EL,Round 1,Fortuna Düsseldorf,Ger,Næstved IF,Den,1-0,2-2,3-2,no,no
+1973/74,EL,Round 1,Grasshoppers Zürich,Sui,Tottenham Hotspur,Eng,1-5,1-4,2-9,no,no
+1973/74,EL,Round 1,Aberdeen,Sco,Finn Harps,Irl,4-1,3-1,7-2,no,no
+1973/74,EL,Round 1,Dundee FC,Sco,FC Twente Enschede,Ned,1-3,2-4,3-7,no,no
+1973/74,EL,Round 1,Espanyol,Esp,RWD Molenbeek,Bel,0-3,2-1,2-4,no,no
+1973/74,EL,Round 1,CF Os Belenenses,Por,Wolverhampton Wanderers,Eng,0-2,1-2,1-4,no,no
+1973/74,EL,Round 1,Union Luxembourg,Lux,Olympique Marseille,Fra,0-5,1-7,1-12,no,no
+1973/74,EL,Round 1,Vitória Setúbal,Por,Beerschot VAV,Bel,2-0,2-0,4-0,no,no
+1973/74,EL,Round 1,Ipswich Town,Eng,Real Madrid,Esp,1-0,0-0,1-0,no,no
+1973/74,EL,Round 1,Lazio,Ita,FC Sion,Sui,3-0,1-3,4-3,no,no
+1973/74,EL,Round 1,Sliema Wanderers,Mlt,Lokomotiv Plovdiv,Bul,0-2,0-1,0-3,no,no
+1973/74,EL,Round 1,Fiorentina,Ita,Universitatea Craiova,Rom,0-0,0-1,0-1,no,no
+1973/74,EL,Round 1,Ferencváros,Hun,Gwardia Warsaw,Pol,0-1,1-2,1-3,no,no
+1973/74,EL,Round 1,VfB Stuttgart,Ger,Olympiakos Nicosia,Cyp,9-0,4-0,13-0,no,no
+1973/74,EL,Round 1,Tatran Presov,TCH,Velez Mostar,YUG,4-2,1-1,5-3,no,no
+1973/74,EL,Round 1,Dinamo Tbilisi,URS,Slavia Sofia,Bul,4-1,0-2,4-3,no,no
+1973/74,EL,Round 1,Panathinaikos,Gre,OFK Belgrade,YUG,1-2,1-0,2-2,no,no
+1973/74,EL,Round 1,Admira Wacker,Aut,Internazionale,Ita,1-0,1-2,2-2,no,no
+1973/74,EL,Round 1,Fenerbahçe,Tur,Arges Pitesti,Rom,5-1,1-1,6-2,no,no
+1973/74,EL,Round 1,VSS Kosice,TCH,Honvéd Budapest,Hun,1-0,2-5,3-5,no,no
+1973/74,EL,Round 1,Torino,Ita,Lokomotive Leipzig,GDR,1-2,1-2,2-4,no,no
+1973/74,EL,Round 1,Eskisehirspor,Tur,1.FC Köln,Ger,0-0,0-2,0-2,no,no
+1973/74,EL,Round 1,Panachaiki Patras,Gre,Grazer AK,Aut,2-1,1-0,3-1,no,no
+1973/74,EL,Round 1,Ards FC,Nir,Standard Liège,Bel,3-2,1-6,4-8,no,no
+1973/74,EL,Round 2,Admira Wacker,Aut,Fortuna Düsseldorf,Ger,2-1,0-3,2-4,no,no
+1973/74,EL,Round 2,Aberdeen,Sco,Tottenham Hotspur,Eng,1-1,1-4,2-5,no,no
+1973/74,EL,Round 2,Dinamo Tbilisi,URS,OFK Belgrade,YUG,3-0,5-1,8-1,no,no
+1973/74,EL,Round 2,OGC Nice,Fra,Fenerbahçe,Tur,4-0,0-2,4-2,no,no
+1973/74,EL,Round 2,Lokomotive Leipzig,GDR,Wolverhampton Wanderers,Eng,3-0,1-4,4-4,no,no
+1973/74,EL,Round 2,Panachaiki Patras,Gre,FC Twente Enschede,Ned,1-1,0-7,1-8,no,no
+1973/74,EL,Round 2,Vitória Setúbal,Por,RWD Molenbeek,Bel,1-0,1-2,2-2,no,no
+1973/74,EL,Round 2,Olympique Marseille,Fra,1.FC Köln,Ger,2-0,0-6,2-6,no,no
+1973/74,EL,Round 2,Ipswich Town,Eng,Lazio,Ita,4-0,2-4,6-4,no,no
+1973/74,EL,Round 2,Dinamo Kiev,URS,B1903 København,Den,1-0,2-1,3-1,no,no
+1973/74,EL,Round 2,Lokomotiv Plovdiv,Bul,Honvéd Budapest,Hun,3-4,2-3,5-7,no,no
+1973/74,EL,Round 2,Ruch Chorzow,Pol,Carl Zeiss Jena,GDR,3-0,0-1,3-1,no,no
+1973/74,EL,Round 2,VfB Stuttgart,Ger,Tatran Presov,TCH,3-1,5-3,8-4,no,no
+1973/74,EL,Round 2,Leeds United,Eng,Hibernian,Sco,0-0,0-0,0-0,no,no
+1973/74,EL,Round 2,Feyenoord,Ned,Gwardia Warsaw,Pol,3-1,0-1,3-2,no,no
+1973/74,EL,Round 2,Standard Liège,Bel,Universitatea Craiova,Rom,2-0,1-1,3-1,no,no
+1973/74,EL,Round 3,Dinamo Kiev,URS,VfB Stuttgart,Ger,2-0,0-3,2-3,no,no
+1973/74,EL,Round 3,Dinamo Tbilisi,URS,Tottenham Hotspur,Eng,1-1,1-5,2-6,no,no
+1973/74,EL,Round 3,Ipswich Town,Eng,FC Twente Enschede,Ned,1-0,2-1,3-1,no,no
+1973/74,EL,Round 3,Honvéd Budapest,Hun,Ruch Chorzow,Pol,2-0,0-5,2-5,no,no
+1973/74,EL,Round 3,Leeds United,Eng,Vitória Setúbal,Por,1-0,1-3,2-3,no,no
+1973/74,EL,Round 3,Fortuna Düsseldorf,Ger,Lokomotive Leipzig,GDR,2-1,0-3,2-4,no,no
+1973/74,EL,Round 3,OGC Nice,Fra,1.FC Köln,Ger,1-0,0-4,1-4,no,no
+1973/74,EL,Round 3,Standard Liège,Bel,Feyenoord,Ned,3-1,0-2,3-3,no,no
+1973/74,EL,Quarter Finals,Ipswich Town,Eng,Lokomotive Leipzig,GDR,1-0,0-1,1-1,no,no
+1973/74,EL,Quarter Finals,1.FC Köln,Ger,Tottenham Hotspur,Eng,1-2,0-3,1-5,no,no
+1973/74,EL,Quarter Finals,VfB Stuttgart,Ger,Vitória Setúbal,Por,1-0,2-2,3-2,no,no
+1973/74,EL,Quarter Finals,Ruch Chorzow,Pol,Feyenoord,Ned,1-1,1-3,2-4,no,no
+1973/74,EL,Semi Finals,Lokomotive Leipzig,GDR,Tottenham Hotspur,Eng,1-2,0-2,1-4,no,no
+1973/74,EL,Semi Finals,Feyenoord,Ned,VfB Stuttgart,Ger,2-1,2-2,4-3,no,no
+1973/74,EL,Final,Tottenham Hotspur,Eng,Feyenoord,Ned,2-2,0-2,2-4,no,no
+1974/75,CL,Round 1,Leeds United,Eng,FC Zürich,Sui,4-1,1-2,5-3,no,no
+1974/75,CL,Round 1,Celtic,Sco,Olympiakos Piraeus,Gre,1-1,0-2,1-3,no,no
+1974/75,CL,Round 1,Universitatea Craiova,Rom,Åtvidabergs FF,Swe,2-1,1-3,3-4,no,no
+1974/75,CL,Round 1,Valletta FC,Mlt,HJK Helsinki,Fin,1-0,1-4,2-4,no,no
+1974/75,CL,Round 1,Levski-Spartak Sofia,Bul,Újpest Dózsa,Hun,0-3,1-4,1-7,no,no
+1974/75,CL,Round 1,Jeunesse d'Esch,Lux,Fenerbahçe,Tur,2-3,0-2,2-5,no,no
+1974/75,CL,Round 1,Viking Stavanger,Nor,Ararat Yerevan,URS,0-2,2-4,2-6,no,no
+1974/75,CL,Round 1,Hvidovre IF,Den,Ruch Chorzow,Pol,0-0,1-2,1-2,no,no
+1974/75,CL,Round 1,Slovan Bratislava,TCH,Anderlecht,Bel,4-2,1-3,5-5,no,no
+1974/75,CL,Round 1,Feyenoord,Ned,Coleraine,Nir,7-0,4-1,11-1,no,no
+1974/75,CL,Round 1,AS Saint-Étienne,Fra,Sporting CP Lisbon,Por,2-0,1-1,3-1,no,no
+1974/75,CL,Round 1,SK Vöest Linz,Aut,FC Barcelona,Esp,0-0,0-5,0-5,no,no
+1974/75,CL,Round 1,Hajduk Split,YUG,Keflavik,Isl,7-1,2-0,9-1,no,no
+1974/75,CL,Round 2,Újpest Dózsa,Hun,Leeds United,Eng,1-2,0-3,1-5,no,no
+1974/75,CL,Round 2,Bayern München,Ger,1.FC Magdeburg,GDR,3-2,2-1,5-3,no,no
+1974/75,CL,Round 2,Hajduk Split,YUG,AS Saint-Étienne,Fra,4-1,1-5,5-6,no,no
+1974/75,CL,Round 2,Feyenoord,Ned,FC Barcelona,Esp,0-0,0-3,0-3,no,no
+1974/75,CL,Round 2,Cork Celtic,Irl,Ararat Yerevan,URS,1-2,0-5,1-7,no,no
+1974/75,CL,Round 2,Ruch Chorzow,Pol,Fenerbahçe,Tur,2-1,2-0,4-1,no,no
+1974/75,CL,Round 2,HJK Helsinki,Fin,Åtvidabergs FF,Swe,0-3,0-1,0-4,no,no
+1974/75,CL,Round 2,Anderlecht,Bel,Olympiakos Piraeus,Gre,5-1,0-3,5-4,no,no
+1974/75,CL,Quarter Finals,Bayern München,Ger,Ararat Yerevan,URS,2-0,0-1,2-1,no,no
+1974/75,CL,Quarter Finals,Leeds United,Eng,Anderlecht,Bel,3-0,1-0,4-0,no,no
+1974/75,CL,Quarter Finals,Ruch Chorzow,Pol,AS Saint-Étienne,Fra,3-2,0-2,3-4,no,no
+1974/75,CL,Quarter Finals,FC Barcelona,Esp,Åtvidabergs FF,Swe,2-0,3-0,5-0,no,no
+1974/75,CL,Semi Finals,AS Saint-Étienne,Fra,Bayern München,Ger,0-0,0-2,0-2,no,no
+1974/75,CL,Semi Finals,Leeds United,Eng,FC Barcelona,Esp,2-1,1-1,3-2,no,no
+1974/75,CL,Final,Bayern München,Ger,Leeds United,Eng,2-0,,2-0,no,no
+1974/75,CW,Round 1,Liverpool,Eng,Strømsgodset IF,Nor,11-0,1-0,12-0,no,no
+1974/75,CW,Round 1,Dundee United,Sco,Jiul Petrosani,Rom,3-0,0-2,3-2,no,no
+1974/75,CW,Round 1,Ferencváros,Hun,Cardiff City,Wal,2-0,4-1,6-1,no,no
+1974/75,CW,Round 1,Bursaspor,Tur,Finn Harps,Irl,4-2,0-0,4-2,no,no
+1974/75,CW,Round 1,Sliema Wanderers,Mlt,Reipas Lahti,Fin,2-0,1-4,3-4,no,no
+1974/75,CW,Round 1,Dinamo Kiev,URS,CSKA Sofia,Bul,1-0,1-0,2-0,no,no
+1974/75,CW,Round 1,Malmö FF,Swe,FC Sion,Sui,1-0,0-1,1-1,no,no
+1974/75,CW,Round 1,Gwardia Warsaw,Pol,Bologna,Ita,2-1,1-2,3-3,no,no
+1974/75,CW,Round 1,Slavia Praha,TCH,Carl Zeiss Jena,GDR,1-0,0-1,1-1,no,no
+1974/75,CW,Round 1,Waregem,Bel,Austria Wien,Aut,2-1,1-4,3-5,no,no
+1974/75,CW,Round 1,PAOK Thessaloniki,Gre,Red Star Belgrade,YUG,1-0,0-2,1-2,no,no
+1974/75,CW,Round 1,PSV Eindhoven,Ned,Ards FC,Nir,10-0,4-1,14-1,no,no
+1974/75,CW,Round 1,Fram Reykjavik,Isl,Real Madrid,Esp,0-2,0-6,0-8,no,no
+1974/75,CW,Round 1,Benfica,Por,Vanløse IF,Den,4-0,4-1,8-1,no,no
+1974/75,CW,Round 1,Eintracht Frankfurt,Ger,AS Monaco,Fra,3-0,2-2,5-2,no,no
+1974/75,CW,Round 2,Liverpool,Eng,Ferencváros,Hun,1-1,0-0,1-1,no,no
+1974/75,CW,Round 2,Dundee United,Sco,Bursaspor,Tur,0-0,0-1,0-1,no,no
+1974/75,CW,Round 2,Real Madrid,Esp,Austria Wien,Aut,3-0,2-2,5-2,no,no
+1974/75,CW,Round 2,Gwardia Warsaw,Pol,PSV Eindhoven,Ned,1-5,0-3,1-8,no,no
+1974/75,CW,Round 2,Carl Zeiss Jena,GDR,Benfica,Por,1-1,0-0,1-1,no,no
+1974/75,CW,Round 2,Avenir Beggen,Lux,Red Star Belgrade,YUG,1-6,1-5,2-11,no,no
+1974/75,CW,Round 2,Malmö FF,Swe,Reipas Lahti,Fin,3-1,0-0,3-1,no,no
+1974/75,CW,Round 2,Eintracht Frankfurt,Ger,Dinamo Kiev,URS,2-3,1-2,3-5,no,no
+1974/75,CW,Quarter Finals,Real Madrid,Esp,Red Star Belgrade,YUG,2-0,0-2,2-2,no,no
+1974/75,CW,Quarter Finals,PSV Eindhoven,Ned,Benfica,Por,0-0,2-1,2-1,no,no
+1974/75,CW,Quarter Finals,Malmö FF,Swe,Ferencváros,Hun,1-3,1-1,2-4,no,no
+1974/75,CW,Quarter Finals,Bursaspor,Tur,Dinamo Kiev,URS,0-1,0-2,0-3,no,no
+1974/75,CW,Semi Finals,Ferencváros,Hun,Red Star Belgrade,YUG,2-1,2-2,4-3,no,no
+1974/75,CW,Semi Finals,Dinamo Kiev,URS,PSV Eindhoven,Ned,3-0,1-2,4-2,no,no
+1974/75,CW,Final,Dinamo Kiev,URS,Ferencváros,Hun,3-0,,3-0,no,no
+1974/75,EL,Round 1,Olympique Lyon,Fra,Red Boys Differdange,Lux,7-0,4-1,11-1,no,no
+1974/75,EL,Round 1,Valur Reykjavik,Isl,Portadown,Nir,0-0,1-2,1-2,no,no
+1974/75,EL,Round 1,Derby County,Eng,Servette FC Genève,Sui,4-1,2-1,6-2,no,no
+1974/75,EL,Round 1,Ipswich Town,Eng,FC Twente Enschede,Ned,2-2,1-1,3-3,no,no
+1974/75,EL,Round 1,Stoke City,Eng,Ajax,Ned,1-1,0-0,1-1,no,no
+1974/75,EL,Round 1,RWD Molenbeek,Bel,Dundee FC,Sco,1-0,4-2,5-2,no,no
+1974/75,EL,Round 1,Rosenborg BK,Nor,Hibernian,Sco,2-3,1-9,3-12,no,no
+1974/75,EL,Round 1,FC Porto,Por,Wolverhampton Wanderers,Eng,4-1,1-3,5-4,no,no
+1974/75,EL,Round 1,Etar Veliko Tarnovo,Bul,Internazionale,Ita,0-0,0-3,0-3,no,no
+1974/75,EL,Round 1,Górnik Zabrze,Pol,Partizan Belgrade,YUG,2-2,0-3,2-5,no,no
+1974/75,EL,Round 1,Start Kristiansand,Nor,Djurgårdens IF,Swe,1-2,0-5,1-7,no,no
+1974/75,EL,Round 1,Boluspor,Tur,Dinamo Bucuresti,Rom,0-1,0-3,0-4,no,no
+1974/75,EL,Round 1,Spartak Moscow,URS,Velez Mostar,YUG,3-1,0-2,3-3,no,no
+1974/75,EL,Round 1,Besiktas,Tur,Steagul Rosu Brasov,Rom,2-0,0-3,2-3,no,no
+1974/75,EL,Round 1,Wacker Innsbruck,Aut,Borussia Mönchengladbach,Ger,2-1,0-3,2-4,no,no
+1974/75,EL,Round 1,Sturm Graz,Aut,Royal Antwerp,Bel,2-1,0-1,2-2,no,no
+1974/75,EL,Round 1,Randers Freja,Den,Dynamo Dresden,GDR,1-1,0-0,1-1,no,no
+1974/75,EL,Round 1,Hamburger SV,Ger,Bohemians Dublin,Irl,3-0,1-0,4-0,no,no
+1974/75,EL,Round 1,Rapid Wien,Aut,Aris Thessaloniki,Gre,3-1,0-1,3-2,no,no
+1974/75,EL,Round 1,Real Sociedad,Esp,Baník Ostrava,TCH,0-1,0-4,0-5,no,no
+1974/75,EL,Round 1,Lokomotiv Plovdiv,Bul,ETO Györ,Hun,3-1,1-3,4-4,no,no
+1974/75,EL,Round 1,Östers IF,Swe,Dinamo Moscow,URS,3-2,1-2,4-4,no,no
+1974/75,EL,Round 1,FC Nantes,Fra,Legia Warsaw,Pol,2-2,1-0,3-2,no,no
+1974/75,EL,Round 1,Napoli,Ita,Videoton Fehérvár,Hun,2-0,1-1,3-1,no,no
+1974/75,EL,Round 1,FC Vorwärts Frankfurt,GDR,Juventus,Ita,2-1,0-3,2-4,no,no
+1974/75,EL,Round 1,Grasshoppers Zürich,Sui,Panathinaikos,Gre,2-0,1-2,3-2,no,no
+1974/75,EL,Round 1,Torino,Ita,Fortuna Düsseldorf,Ger,1-1,1-3,2-4,no,no
+1974/75,EL,Round 1,1.FC Köln,Ger,KPV Kokkola,Fin,5-1,4-1,9-2,no,no
+1974/75,EL,Round 1,FC Amsterdam,Ned,Hibernians FC,Mlt,5-0,7-0,12-0,no,no
+1974/75,EL,Round 1,KB København,Den,Atlético Madrid,Esp,3-2,0-4,3-6,no,no
+1974/75,EL,Round 1,Vitória Setúbal,Por,Real Zaragoza,Esp,1-1,0-4,1-5,no,no
+1974/75,EL,Round 2,Derby County,Eng,Atlético Madrid,Esp,2-2,2-2,4-4,no,no
+1974/75,EL,Round 2,Hibernian,Sco,Juventus,Ita,2-4,0-4,2-8,no,no
+1974/75,EL,Round 2,Partizan Belgrade,YUG,Portadown,Nir,5-0,1-1,6-1,no,no
+1974/75,EL,Round 2,FC Nantes,Fra,Baník Ostrava,TCH,1-0,0-2,1-2,no,no
+1974/75,EL,Round 2,Dinamo Bucuresti,Rom,1.FC Köln,Ger,1-1,2-3,3-4,no,no
+1974/75,EL,Round 2,ETO Györ,Hun,Fortuna Düsseldorf,Ger,2-0,0-3,2-3,no,no
+1974/75,EL,Round 2,Rapid Wien,Aut,Velez Mostar,YUG,1-1,0-1,1-2,no,no
+1974/75,EL,Round 2,Dynamo Dresden,GDR,Dinamo Moscow,URS,1-0,0-1,1-1,no,no
+1974/75,EL,Round 2,Grasshoppers Zürich,Sui,Real Zaragoza,Esp,2-1,0-5,2-6,no,no
+1974/75,EL,Round 2,Borussia Mönchengladbach,Ger,Olympique Lyon,Fra,1-0,5-2,6-2,no,no
+1974/75,EL,Round 2,Hamburger SV,Ger,Steagul Rosu Brasov,Rom,8-0,2-1,10-1,no,no
+1974/75,EL,Round 2,FC Twente Enschede,Ned,RWD Molenbeek,Bel,2-1,1-0,3-1,no,no
+1974/75,EL,Round 2,Djurgårdens IF,Swe,Dukla Praha,TCH,0-2,1-3,1-5,no,no
+1974/75,EL,Round 2,Internazionale,Ita,FC Amsterdam,Ned,1-2,0-0,1-2,no,no
+1974/75,EL,Round 2,Napoli,Ita,FC Porto,Por,1-0,1-0,2-0,no,no
+1974/75,EL,Round 2,Ajax,Ned,Royal Antwerp,Bel,1-0,1-2,2-2,no,no
+1974/75,EL,Round 3,Napoli,Ita,Baník Ostrava,TCH,0-2,1-1,1-3,no,no
+1974/75,EL,Round 3,Hamburger SV,Ger,Dynamo Dresden,GDR,4-1,2-2,6-3,no,no
+1974/75,EL,Round 3,Dukla Praha,TCH,FC Twente Enschede,Ned,3-1,0-5,3-6,no,no
+1974/75,EL,Round 3,Partizan Belgrade,YUG,1.FC Köln,Ger,1-0,1-5,2-5,no,no
+1974/75,EL,Round 3,Borussia Mönchengladbach,Ger,Real Zaragoza,Esp,5-0,4-2,9-2,no,no
+1974/75,EL,Round 3,FC Amsterdam,Ned,Fortuna Düsseldorf,Ger,3-0,2-1,5-1,no,no
+1974/75,EL,Round 3,Juventus,Ita,Ajax,Ned,1-0,1-2,2-2,no,no
+1974/75,EL,Round 3,Derby County,Eng,Velez Mostar,YUG,3-1,1-4,4-5,no,no
+1974/75,EL,Quarter Finals,Juventus,Ita,Hamburger SV,Ger,2-0,0-0,2-0,no,no
+1974/75,EL,Quarter Finals,1.FC Köln,Ger,FC Amsterdam,Ned,5-1,3-2,8-3,no,no
+1974/75,EL,Quarter Finals,Velez Mostar,YUG,FC Twente Enschede,Ned,1-0,0-2,1-2,no,no
+1974/75,EL,Quarter Finals,Baník Ostrava,TCH,Borussia Mönchengladbach,Ger,0-1,1-3,1-4,no,no
+1974/75,EL,Semi Finals,FC Twente Enschede,Ned,Juventus,Ita,3-1,1-0,4-1,no,no
+1974/75,EL,Semi Finals,1.FC Köln,Ger,Borussia Mönchengladbach,Ger,1-3,0-1,1-4,no,no
+1974/75,EL,Final,Borussia Mönchengladbach,Ger,FC Twente Enschede,Ned,0-0,5-1,5-1,no,no
 1975/76,CL,Round 1,Benfica,Por,Fenerbahçe,Tur,7-0,0-1,7-1,no,no
 1975/76,CL,Round 1,Borussia Mönchengladbach,Ger,Wacker Innsbruck,Aut,1-1,6-1,7-2,no,no
 1975/76,CL,Round 1,KB København,Den,AS Saint-Étienne,Fra,0-2,1-3,1-5,no,no
