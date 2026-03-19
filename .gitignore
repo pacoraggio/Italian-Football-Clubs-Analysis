@@ -1,0 +1,5 @@
+# Ignore backup folder and all its content
+backup/
+
+# Ignore prompt folder and all its content
+prompt/
